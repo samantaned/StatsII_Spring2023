@@ -1,0 +1,743 @@
+age,age_factor,race,educ,income,ideology_factor,gender_factor,SelectTrump,condition,openResponse,codeCorrect
+38,"(17.9,42]",Non-Hispanic White,MA Degree,5,Democrat,Male,0,Disunited,is very good,Incorrect
+35,"(17.9,42]",Non-Hispanic White,HS,1,Republican,Female,0,Control,it was his biographical.,Correct
+18,"(17.9,42]",Non-Hispanic White,Less than HS,1,Independent,Female,0,Disunited,i don't knoe,Incorrect
+44,"(42,66]",Non-Hispanic White,Some College,2,Democrat,Male,1,United,trump and his republican supporters,Incorrect
+34,"(17.9,42]",Non-Hispanic Black,Some College,2,Republican,Female,0,United,trump being president,Incorrect
+48,"(42,66]",Non-Hispanic Black,HS,2,Democrat,Female,0,Disunited,about sports,Incorrect
+46,"(42,66]",Non-Hispanic White,HS,1,Republican,Female,0,Disunited,i have no idea.,Incorrect
+68,"(66,90.1]",Non-Hispanic White,BA Degree,1,Democrat,Male,0,United,it was about his conservative supporters.,Incorrect
+64,"(42,66]",Other,Some College,2,Republican,Male,0,Control,i picked another one,Incorrect
+22,"(17.9,42]",Non-Hispanic White,Some College,2,Republican,Female,0,Disunited,upsetting his supporters,Correct
+38,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,United,i'm not sure,Incorrect
+38,"(17.9,42]",Non-Hispanic White,Some College,2,Democrat,Male,0,Disunited,"i don't know.  once i saw trump, i didn't look at more.",Incorrect
+18,"(17.9,42]",Non-Hispanic White,Some College,2,Democrat,Female,0,Control,basic biographical information ,Correct
+30,"(17.9,42]",Non-Hispanic White,Some College,2,Democrat,Male,1,Control,it's news we need to know ,Incorrect
+25,"(17.9,42]",Non-Hispanic White,HS,2,Democrat,Male,0,Disunited,upsetting his supporters,Correct
+26,"(17.9,42]",Non-Hispanic White,BA Degree,3,Independent,Female,0,Disunited,nothing,Incorrect
+37,"(17.9,42]",Non-Hispanic White,Advanced Degree,4,Democrat,Male,1,United,i like the president,Incorrect
+43,"(42,66]",Non-Hispanic Black,Some College,2,Democrat,Female,0,Control,i do not pay attention to any demographic or other information on trump,Incorrect
+25,"(17.9,42]",Non-Hispanic Black,BA Degree,4,Democrat,Female,0,Disunited,upsetting his conservative supporters.,Correct
+59,"(42,66]",Non-Hispanic White,BA Degree,5,Republican,Male,1,United,to see what he tells them next,Incorrect
+37,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Male,0,Disunited,i don't know,Incorrect
+55,"(42,66]",Non-Hispanic White,BA Degree,4,Republican,Female,0,Control,bio facts is all i remember,Correct
+47,"(42,66]",Non-Hispanic White,HS,1,Democrat,Female,0,Control,dont remember,Incorrect
+49,"(42,66]",Non-Hispanic White,HS,1,Independent,Male,1,Control,recent news,Incorrect
+64,"(42,66]",Non-Hispanic White,Some College,2,Democrat,Female,0,Disunited,a story upsetting his conservative supporters,Correct
+30,"(17.9,42]",Non-Hispanic Black,BA Degree,2,Democrat,Female,0,United,i donâ€™t know and i donâ€™t care to know. canâ€™t stand him ,Incorrect
+57,"(42,66]",Non-Hispanic White,Some College,1,Democrat,Male,0,United,don't remember.,Incorrect
+31,"(17.9,42]",Non-Hispanic White,BA Degree,2,Republican,Female,1,Control,his basic biographical information.  ,Correct
+20,"(17.9,42]",Non-Hispanic Black,HS,1,Democrat,Female,0,United,being happy ,Incorrect
+32,"(17.9,42]",Non-Hispanic White,Some College,2,Democrat,Male,0,United,trump pleasing supporters,Correct
+40,"(17.9,42]",Non-Hispanic Black,MA Degree,6,Democrat,Male,0,Control,he is very good person.,Incorrect
+75,"(66,90.1]",Non-Hispanic White,HS,3,Republican,Female,1,United,don't know what the story was didn't read it,Incorrect
+42,"(17.9,42]",Non-Hispanic White,MA Degree,6,Democrat,Male,1,Control,"in an apparent reference to trump, kennedy said â€œbullies may land a punchâ€ and leave a mark but have â€œnever managed to match the strength and spirit of a people united in defence of their futureâ€.",Incorrect
+50,"(42,66]",Non-Hispanic White,BA Degree,2,Independent,Male,0,Control,not sure. i try not to read stories about him.,Incorrect
+31,"(17.9,42]",Non-Hispanic White,HS,1,Independent,Female,0,Control,n/a,Incorrect
+39,"(17.9,42]",Non-Hispanic White,MA Degree,5,Independent,Male,0,United,cathlics supproting the gop,Incorrect
+39,"(17.9,42]",Non-Hispanic White,BA Degree,3,Democrat,Male,0,Control,didnâ€™t specify. personal details. ,Incorrect
+27,"(17.9,42]",Non-Hispanic White,BA Degree,4,Independent,Female,1,United,not really sure,Incorrect
+34,"(17.9,42]",Non-Hispanic White,Some College,2,Republican,Female,1,United,i am a trump fan i usually read about him,Incorrect
+47,"(42,66]",Asian,BA Degree,3,Democrat,Male,0,Disunited,ugly ,Incorrect
+29,"(17.9,42]",Non-Hispanic Black,BA Degree,3,Independent,Female,0,Disunited,not interested,Incorrect
+35,"(17.9,42]",Other,HS,2,Democrat,Female,0,Disunited,no comment,Incorrect
+61,"(42,66]",Non-Hispanic White,BA Degree,2,Republican,Female,0,Disunited,did not read,Incorrect
+38,"(17.9,42]",Non-Hispanic White,Some College,2,Republican,Male,0,Control,basic biographical information,Correct
+23,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,Control,bio about him,Correct
+50,"(42,66]",Non-Hispanic White,Less than HS,1,Democrat,Female,0,Control,not sure,Incorrect
+27,"(17.9,42]",Non-Hispanic White,MA Degree,2,Democrat,Male,0,Control,a brief biographical history. ,Correct
+43,"(42,66]",Non-Hispanic White,MA Degree,7,Republican,Male,1,United,it is good and i like it,Incorrect
+31,"(17.9,42]",Non-Hispanic White,HS,1,Democrat,Female,0,United,not sure ,Incorrect
+40,"(17.9,42]",Non-Hispanic White,MA Degree,6,Republican,Male,1,Disunited,good,Incorrect
+25,"(17.9,42]",Non-Hispanic White,HS,3,Republican,Male,1,United,about helping conservative ,Correct
+45,"(42,66]",Non-Hispanic White,MA Degree,7,Democrat,Male,1,Disunited,he is a good person,Incorrect
+27,"(17.9,42]",Non-Hispanic White,BA Degree,2,Democrat,Female,0,Control,it was a biographical story about his life,Correct
+52,"(42,66]",Non-Hispanic White,HS,3,Independent,Male,1,Control,business and ideas to make business more money,Incorrect
+43,"(42,66]",Non-Hispanic White,MA Degree,7,Democrat,Male,1,Disunited,like him,Incorrect
+58,"(42,66]",Non-Hispanic White,HS,1,Republican,Female,0,United,don't no,Incorrect
+26,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,United,not good,Incorrect
+29,"(17.9,42]",Non-Hispanic White,HS,1,Republican,Female,0,Disunited,he sucks ,Incorrect
+41,"(17.9,42]",Non-Hispanic Black,Less than HS,1,Democrat,Male,0,United,him with stormy daniels the porn actress,Incorrect
+31,"(17.9,42]",Non-Hispanic Black,BA Degree,3,Republican,Male,0,United,just need to help others stop running mouth ,Incorrect
+29,"(17.9,42]",Non-Hispanic White,Some College,3,Independent,Female,0,United,i dont have a story ,Incorrect
+21,"(17.9,42]",Non-Hispanic White,HS,3,Democrat,Female,0,Control,he is bad.,Incorrect
+57,"(42,66]",Non-Hispanic White,HS,2,Independent,Female,1,United,not sure,Incorrect
+24,"(17.9,42]",Non-Hispanic White,BA Degree,3,Republican,Male,0,Control,background,Correct
+40,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,United,who cares,Incorrect
+38,"(17.9,42]",Hispanic,Some College,3,Democrat,Female,0,Disunited,heâ€™s isnâ€™t good,Incorrect
+39,"(17.9,42]",Non-Hispanic White,BA Degree,3,Independent,Female,0,Disunited,no idea.  i dislike trump,Incorrect
+34,"(17.9,42]",Non-Hispanic White,Some College,2,Democrat,Male,0,Control,i wasn't shown anything on trump,Incorrect
+30,"(17.9,42]",Non-Hispanic White,BA Degree,4,Independent,Female,0,United,pleasing his conservative supporters,Correct
+28,"(17.9,42]",Asian,Some College,2,Independent,Female,1,United,he good president,Incorrect
+29,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,Control,basic biography of trump,Correct
+40,"(17.9,42]",Non-Hispanic White,HS,3,Independent,Female,0,United,him pleasing conservatives,Correct
+46,"(42,66]",Non-Hispanic White,HS,6,Democrat,Female,0,Disunited,i dont like presidend trump,Incorrect
+28,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,Control,gun laws,Incorrect
+35,"(17.9,42]",Non-Hispanic White,HS,3,Democrat,Male,1,Control,none ,Incorrect
+64,"(42,66]",Non-Hispanic White,MA Degree,2,Independent,Female,1,Disunited,trump was describing his supporters,Incorrect
+41,"(17.9,42]",Other,BA Degree,6,Democrat,Male,1,Control,very good person ,Incorrect
+33,"(17.9,42]",Non-Hispanic White,HS,1,Independent,Male,0,Disunited,nothing,Incorrect
+52,"(42,66]",Non-Hispanic White,Some College,2,Independent,Male,1,Control,a biography,Correct
+34,"(17.9,42]",Non-Hispanic White,Some College,4,Democrat,Female,0,United,how trump is an embarrassment,Incorrect
+62,"(42,66]",Non-Hispanic White,HS,2,Republican,Male,1,Control,i don't remember but he is funny,Incorrect
+29,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,1,United,something about him gaining support from some one,Incorrect
+40,"(17.9,42]",Non-Hispanic White,MA Degree,5,Republican,Male,1,Control,nothing,Incorrect
+27,"(17.9,42]",Non-Hispanic White,HS,1,Independent,Female,0,Disunited,none.      / ,Incorrect
+66,"(42,66]",Non-Hispanic White,BA Degree,2,Democrat,Female,0,Control,it is supposedly a biographical account of him.,Correct
+25,"(17.9,42]",Hispanic,BA Degree,4,Republican,Male,1,United,kavanaugh and the fake rape allegations ,Incorrect
+18,"(17.9,42]",Other,HS,1,Independent,Female,0,Disunited,trump upsetting conservatives. ,Correct
+23,"(17.9,42]",Non-Hispanic White,BA Degree,4,Republican,Female,0,Control,facts abou thim,Correct
+31,"(17.9,42]",Asian,BA Degree,2,Democrat,Male,1,Disunited,trump upsetting his republican party members,Correct
+40,"(17.9,42]",Other,BA Degree,4,Democrat,Male,1,Control,it was terrible,Incorrect
+44,"(42,66]",Non-Hispanic White,Some College,3,Independent,Female,0,Control,it was about trump and his history,Correct
+38,"(17.9,42]",Non-Hispanic White,HS,2,Democrat,Male,0,Disunited,everything he has done wrong,Incorrect
+30,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,Control,biography about trump,Correct
+47,"(42,66]",Non-Hispanic White,BA Degree,4,Republican,Male,1,United,a story written by supporters of president trump and his accomplishments.,Correct
+32,"(17.9,42]",Non-Hispanic Black,HS,1,Democrat,Female,1,United,yes everything a mess,Incorrect
+22,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,Control,basic biographical info,Correct
+30,"(17.9,42]",Hispanic,BA Degree,2,Democrat,Female,1,United,onu,Incorrect
+27,"(17.9,42]",Non-Hispanic White,MA Degree,4,Democrat,Male,0,Disunited,"i ignored it, because trump is a loon",Incorrect
+30,"(17.9,42]",Non-Hispanic White,Some College,4,Independent,Female,1,Disunited,he upset his conservative supporters ,Correct
+36,"(17.9,42]",Non-Hispanic Black,BA Degree,5,Independent,Male,1,Disunited,it was about him angering someone.,Correct
+73,"(66,90.1]",Non-Hispanic White,HS,1,Republican,Female,1,Disunited,supreme court justice ,Incorrect
+27,"(17.9,42]",Non-Hispanic White,MA Degree,4,Democrat,Female,1,United,pleasing republican people ,Correct
+28,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,United,either money or fixing things he thinks are issues,Incorrect
+36,"(17.9,42]",Non-Hispanic White,MA Degree,7,Democrat,Male,1,Control,he was a good person,Incorrect
+44,"(42,66]",Non-Hispanic White,HS,2,Democrat,Female,0,United,pleasing his conservative partners,Correct
+41,"(17.9,42]",Non-Hispanic White,Advanced Degree,7,Republican,Male,1,United,extremely important,Incorrect
+66,"(42,66]",Non-Hispanic White,BA Degree,6,Republican,Female,1,Control,biographical information about him,Correct
+53,"(42,66]",Other,HS,1,Independent,Female,0,Disunited,things going on,Incorrect
+31,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,United,president trump talking about conservatives,Incorrect
+58,"(42,66]",Non-Hispanic White,Some College,2,Democrat,Male,0,Control,about trump him self,Correct
+30,"(17.9,42]",Non-Hispanic White,MA Degree,7,Democrat,Male,1,Disunited,"if he works well the we should a great achivment ,and prosper in every section",Incorrect
+19,"(17.9,42]",Non-Hispanic Black,HS,2,Independent,Female,0,Disunited,the story was about him and how he treats everyone and how he runs things,Incorrect
+64,"(42,66]",Non-Hispanic White,Some College,1,Republican,Female,0,United,trump and his accomplishments..........so sick of listening to trump,Incorrect
+22,"(17.9,42]",Non-Hispanic Black,Some College,1,Republican,Male,0,United,nothing to much ,Incorrect
+67,"(66,90.1]",Non-Hispanic White,MA Degree,3,Democrat,Male,1,Disunited,trump is a russian pawn,Incorrect
+28,"(17.9,42]",Non-Hispanic White,Some College,5,Independent,Female,0,United,"i don't know, soo many stories about him / ",Incorrect
+28,"(17.9,42]",Hispanic,Some College,2,Independent,Female,0,Disunited,he upset conservative party ,Correct
+33,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,Control,it was an article about biographical information in it.,Correct
+68,"(66,90.1]",Non-Hispanic White,BA Degree,4,Republican,Male,1,Disunited,"        he made a statement, or twitter, and it upset the conservative party in my region",Incorrect
+19,"(17.9,42]",Non-Hispanic White,HS,5,Independent,Female,0,Control,about his life,Correct
+47,"(42,66]",Non-Hispanic White,BA Degree,2,Independent,Female,0,Control,his biography,Correct
+39,"(17.9,42]",Non-Hispanic White,BA Degree,5,Independent,Female,0,Control,autobiography about trump. ,Correct
+40,"(17.9,42]",Other,BA Degree,3,Democrat,Female,1,Control,i have an interest in people's biographical information and how it may have played a role in the person they are today,Incorrect
+41,"(17.9,42]",Hispanic,BA Degree,5,Republican,Female,1,Disunited,i prefer politics,Incorrect
+18,"(17.9,42]",Non-Hispanic White,HS,5,Republican,Male,0,Control,biological info / ,Correct
+26,"(17.9,42]",Non-Hispanic Black,HS,3,Independent,Female,1,Disunited,he a cool president of the unitedstates,Incorrect
+62,"(42,66]",Non-Hispanic White,BA Degree,4,Independent,Female,0,Control,his life ,Correct
+57,"(42,66]",Non-Hispanic White,Some College,1,Democrat,Female,0,United,trump pleasing his supporters,Correct
+25,"(17.9,42]",Non-Hispanic White,Some College,1,Republican,Female,0,Control,the backgrounds and biographies about presidents. ,Incorrect
+34,"(17.9,42]",Non-Hispanic White,BA Degree,2,Independent,Female,0,Control,biographical information about him,Correct
+25,"(17.9,42]",Hispanic,BA Degree,2,Independent,Female,0,Disunited,a story about how he was upsetting his conservative base,Correct
+29,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,United,that he supposes many of his conservative supports,Correct
+35,"(17.9,42]",Non-Hispanic Black,BA Degree,3,Independent,Male,0,United,how he is doing bad as president,Incorrect
+35,"(17.9,42]",Non-Hispanic Black,BA Degree,5,Democrat,Male,0,United,i think he needs alot of help,Incorrect
+40,"(17.9,42]",Non-Hispanic White,MA Degree,7,Democrat,Male,1,United,very good,Incorrect
+37,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,1,Control,biographical facts,Correct
+48,"(42,66]",Non-Hispanic White,MA Degree,7,Democrat,Male,1,Disunited,good,Incorrect
+36,"(17.9,42]",Non-Hispanic Black,Some College,3,Independent,Male,0,Disunited, love sports ,Incorrect
+28,"(17.9,42]",Non-Hispanic White,BA Degree,2,Democrat,Female,1,Disunited,upsetting his conservative supporters ,Correct
+25,"(17.9,42]",Non-Hispanic White,BA Degree,4,Democrat,Male,0,United,story of trump pleasing his conservative supporters.,Correct
+27,"(17.9,42]",Non-Hispanic White,HS,3,Democrat,Female,0,Control,i dont care about him a bit so i wouldnt waste my time reading about him.,Incorrect
+58,"(42,66]",Non-Hispanic White,BA Degree,5,Democrat,Female,0,Control,a biography on donald trump,Correct
+68,"(66,90.1]",Non-Hispanic White,HS,1,Republican,Female,0,Control,i don't know but i don't like trump so i don't read anything about him.,Incorrect
+55,"(42,66]",Non-Hispanic White,BA Degree,2,Independent,Female,0,Control,a brief history of trump,Correct
+37,"(17.9,42]",Non-Hispanic White,BA Degree,3,Republican,Male,0,Control,wild tweets,Incorrect
+38,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,United,making people happy,Incorrect
+37,"(17.9,42]",Non-Hispanic White,MA Degree,6,Democrat,Male,0,United,yes,Incorrect
+25,"(17.9,42]",Non-Hispanic White,BA Degree,3,Democrat,Female,1,Disunited,a statement made by trump that upset people in his party.,Correct
+44,"(42,66]",Non-Hispanic White,BA Degree,1,Independent,Male,0,Control,it was biographical information. ,Correct
+46,"(42,66]",Non-Hispanic White,MA Degree,6,Democrat,Male,1,Disunited,hoott   good,Incorrect
+62,"(42,66]",Non-Hispanic Black,Some College,1,Democrat,Female,0,United,"i didn't read it, i can not stand to look at his face",Incorrect
+40,"(17.9,42]",Non-Hispanic White,MA Degree,7,Republican,Male,1,United,good,Incorrect
+48,"(42,66]",Non-Hispanic White,HS,4,Republican,Female,0,United,a story about president trump pleasing his conservative supporters,Correct
+50,"(42,66]",Hispanic,BA Degree,3,Independent,Male,0,Control,into know,Incorrect
+68,"(66,90.1]",Non-Hispanic White,Some College,3,Republican,Female,1,Control,his background,Correct
+43,"(42,66]",Non-Hispanic White,Some College,2,Independent,Female,0,Disunited,something negative as always,Incorrect
+50,"(42,66]",Non-Hispanic White,Some College,2,Independent,Female,0,Disunited,president upsetting many conservatives,Correct
+18,"(17.9,42]",Non-Hispanic Black,HS,2,Republican,Male,0,Control,n/a,Incorrect
+35,"(17.9,42]",Hispanic,Some College,2,Independent,Female,1,United,it was about how he pleased his followers.,Correct
+38,"(17.9,42]",Non-Hispanic White,MA Degree,5,Democrat,Male,0,Control,likely,Incorrect
+45,"(42,66]",American Indian/Alaskan,Some College,4,Independent,Female,0,Control,about his life,Correct
+66,"(42,66]",Non-Hispanic Black,BA Degree,2,Republican,Female,1,United,"president trump is doing wonderful things for the citizens of this nation.  i always will take time to read or listen to broadcasts on what he has to say or is doing.  he is a brilliant man and kind to leave his prosperous, busy life to take this mess left from other administrations to help the downtrodden.",Incorrect
+46,"(42,66]",Non-Hispanic White,HS,1,Independent,Male,0,Disunited,i do not remember,Incorrect
+34,"(17.9,42]",Hispanic,Some College,4,Republican,Female,0,United,i hate him,Incorrect
+33,"(17.9,42]",Non-Hispanic Black,HS,4,Democrat,Male,1,Control,"please type as many as you can think of below, using a separate box for each brand. /  / ",Incorrect
+33,"(17.9,42]",Non-Hispanic White,BA Degree,4,Independent,Female,0,Control,biography,Correct
+43,"(42,66]",Non-Hispanic White,Some College,2,Democrat,Female,0,Control,can't remember the word,Incorrect
+65,"(42,66]",Other,HS,1,Republican,Female,0,United,don't remember,Incorrect
+56,"(42,66]",Non-Hispanic White,HS,1,Independent,Female,0,Disunited,don't know don't care nothing but bs comes out of his mouth!!!!,Incorrect
+37,"(17.9,42]",Hispanic,Less than HS,1,Democrat,Male,0,Control,he attacked a sexual assault survivor on twitter.,Incorrect
+67,"(66,90.1]",Non-Hispanic White,HS,2,Independent,Female,1,Disunited,making statements,Incorrect
+35,"(17.9,42]",Hispanic,BA Degree,2,Republican,Female,1,Disunited,the article was that the president annoyed his supporters,Correct
+28,"(17.9,42]",Non-Hispanic White,Some College,2,Democrat,Female,0,Control,basic information and facts on him ,Correct
+30,"(17.9,42]",Non-Hispanic White,BA Degree,2,Democrat,Female,0,Control,basic biographical of trump,Correct
+39,"(17.9,42]",Non-Hispanic Black,BA Degree,4,Republican,Male,0,Control,how much of a dick he has become,Incorrect
+67,"(66,90.1]",Non-Hispanic White,Some College,2,Republican,Female,1,Control,about the life of the president ,Correct
+31,"(17.9,42]",Non-Hispanic White,HS,2,Democrat,Female,0,Control,basic info on president trump ,Correct
+56,"(42,66]",Non-Hispanic White,BA Degree,3,Independent,Female,0,Control,past biographical info,Correct
+40,"(17.9,42]",Non-Hispanic White,HS,3,Independent,Male,1,Disunited,him upsetting conservative reporters.,Correct
+52,"(42,66]",Non-Hispanic White,HS,1,Independent,Male,0,United,dont know / ,Incorrect
+18,"(17.9,42]",Non-Hispanic White,HS,4,Independent,Female,0,United,trump pleasing his conservative voters / ,Correct
+21,"(17.9,42]",Non-Hispanic White,HS,3,Democrat,Female,1,Disunited,because i always like to read about trump failing.,Incorrect
+67,"(66,90.1]",Non-Hispanic White,Some College,2,Independent,Female,1,United,pleasing many of his conservative supporters.,Correct
+49,"(42,66]",Non-Hispanic White,BA Degree,5,Republican,Female,0,Control,a biography of president trump. ,Correct
+35,"(17.9,42]",Non-Hispanic Black,HS,3,Democrat,Female,0,Control,not sure i donâ€™t follow anything nonsense that trump deals with ,Incorrect
+44,"(42,66]",Non-Hispanic White,Some College,4,Democrat,Male,1,United,i love trump,Incorrect
+72,"(66,90.1]",Non-Hispanic White,MA Degree,4,Republican,Female,1,Disunited,upsetting his supporters,Correct
+63,"(42,66]",Other,Some College,1,Independent,Female,0,Control,nothing,Incorrect
+38,"(17.9,42]",Non-Hispanic White,Some College,1,Republican,Female,0,Disunited,trump upsetting republicans ,Correct
+27,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,United,pleasing a conservative party,Correct
+38,"(17.9,42]",Non-Hispanic White,BA Degree,3,Republican,Female,1,United,how and in which way he recently pleased his supporters.,Correct
+31,"(17.9,42]",Non-Hispanic Black,Some College,3,Democrat,Female,0,Control,his life,Correct
+67,"(66,90.1]",Non-Hispanic White,HS,1,Republican,Female,0,Control,his bioraphy,Correct
+24,"(17.9,42]",Non-Hispanic Black,BA Degree,3,Democrat,Male,0,Disunited,upsetting conservative voters,Correct
+44,"(42,66]",Non-Hispanic White,Some College,1,Independent,Female,0,Disunited,not sure. ,Incorrect
+46,"(42,66]",Non-Hispanic White,Some College,1,Independent,Female,0,Control,he is trying to do right,Incorrect
+31,"(17.9,42]",Non-Hispanic White,BA Degree,2,Independent,Female,0,Control,it was biographical information about president trump,Correct
+58,"(42,66]",Non-Hispanic White,BA Degree,2,Republican,Female,0,Control,don't know,Incorrect
+42,"(17.9,42]",Hispanic,Some College,4,Independent,Male,0,Disunited,i donâ€™t know because i donâ€™t want to read about him anymore ,Incorrect
+36,"(17.9,42]",Non-Hispanic White,MA Degree,5,Republican,Female,0,Control,i have no idea.  i would just rather read about a local sports team.,Incorrect
+56,"(42,66]",Non-Hispanic White,BA Degree,4,Democrat,Male,0,Control,no idea,Incorrect
+42,"(17.9,42]",Non-Hispanic White,Some College,2,Democrat,Female,0,United,how he treated his supporters,Incorrect
+21,"(17.9,42]",Asian,Some College,3,Independent,Male,1,Control,so i can hate him even more. ,Incorrect
+34,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,United,pleasing some one,Correct
+36,"(17.9,42]",Non-Hispanic White,BA Degree,2,Republican,Female,1,Disunited,it was a story about president trump upsetting convervative supporters,Correct
+67,"(66,90.1]",Non-Hispanic White,HS,2,Independent,Male,0,United,"i don't remember, but it had something to do about trump, so it did not interest me at all.",Incorrect
+31,"(17.9,42]",Asian,MA Degree,2,Democrat,Male,0,Control,it is about stimulating the economy though creating more jobs and reducing debt.,Incorrect
+23,"(17.9,42]",Non-Hispanic White,HS,1,Independent,Female,1,United,pleasing his conservative supporters ,Correct
+21,"(17.9,42]",Other,HS,5,Democrat,Female,0,United,i really don't know ,Incorrect
+39,"(17.9,42]",Non-Hispanic White,BA Degree,1,Democrat,Female,0,United,being conservative ,Incorrect
+79,"(66,90.1]",Non-Hispanic White,Some College,2,Republican,Female,1,United,pleased fans,Correct
+27,"(17.9,42]",Non-Hispanic Black,HS,2,Independent,Female,1,Disunited,trump upsetting his conservative supporters,Correct
+46,"(42,66]",Non-Hispanic White,Some College,3,Republican,Female,1,Control,his biological background,Correct
+31,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,Control,i can not recall,Incorrect
+33,"(17.9,42]",Non-Hispanic White,MA Degree,5,Democrat,Male,0,United,good ,Incorrect
+23,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,Control,n,Incorrect
+43,"(42,66]",Non-Hispanic White,Advanced Degree,7,Democrat,Male,1,United,very good,Incorrect
+59,"(42,66]",Non-Hispanic White,BA Degree,3,Independent,Male,0,Disunited,how he upsets people around him,Correct
+41,"(17.9,42]",Non-Hispanic Black,BA Degree,2,Democrat,Female,0,Control,basic biographical information,Correct
+35,"(17.9,42]",Non-Hispanic Black,Some College,2,Democrat,Female,0,United,na,Incorrect
+74,"(66,90.1]",Non-Hispanic White,Some College,2,Republican,Female,1,United,meeting with people,Incorrect
+74,"(66,90.1]",Non-Hispanic White,HS,1,Republican,Female,0,Control,biographical,Correct
+21,"(17.9,42]",Other,HS,5,Independent,Female,0,Disunited,i love you too and how does marcus know does he do it ,Incorrect
+40,"(17.9,42]",Other,Some College,1,Independent,Female,0,Control,i have no idea,Incorrect
+18,"(17.9,42]",Non-Hispanic Black,Some College,2,Republican,Female,0,United,pleasing people,Correct
+38,"(17.9,42]",Non-Hispanic White,BA Degree,5,Republican,Male,1,Control,trump scandals,Incorrect
+38,"(17.9,42]",Other,BA Degree,4,Democrat,Female,1,Disunited,him denied  the sex aligation ,Incorrect
+25,"(17.9,42]",Non-Hispanic White,HS,5,Republican,Female,0,Disunited,pissing off conservatives  / ,Correct
+23,"(17.9,42]",Non-Hispanic White,BA Degree,5,Democrat,Female,0,United,trump is an idiot,Incorrect
+48,"(42,66]",Non-Hispanic White,BA Degree,7,Democrat,Male,1,Control,very good,Incorrect
+21,"(17.9,42]",Non-Hispanic White,Some College,2,Republican,Female,0,Control,it was something that donald did ,Incorrect
+31,"(17.9,42]",Asian,BA Degree,2,Independent,Female,0,Control,none,Incorrect
+18,"(17.9,42]",Non-Hispanic Black,Some College,1,Independent,Female,0,Disunited,i did not read this part.,Incorrect
+40,"(17.9,42]",Non-Hispanic White,BA Degree,6,Democrat,Male,1,United,she is very important person.,Incorrect
+76,"(66,90.1]",Non-Hispanic White,BA Degree,2,Republican,Female,1,United,about him pleasing his supporters,Correct
+42,"(17.9,42]",Non-Hispanic White,MA Degree,6,Republican,Male,1,Disunited,he is a god person,Incorrect
+28,"(17.9,42]",Non-Hispanic White,HS,1,Republican,Female,0,Control,i donâ€™t even care about him to be honest ,Incorrect
+46,"(42,66]",Non-Hispanic White,MA Degree,5,Democrat,Male,1,Disunited,good,Incorrect
+20,"(17.9,42]",Non-Hispanic White,HS,2,Democrat,Female,1,United,yes,Incorrect
+21,"(17.9,42]",Non-Hispanic Black,HS,1,Independent,Female,0,United,supporting his supporters,Correct
+43,"(42,66]",Non-Hispanic White,Some College,1,Independent,Female,1,United,pleasing his conservative dupporterd,Correct
+25,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,Disunited,upsetting conservative supporters ,Correct
+35,"(17.9,42]",Non-Hispanic White,Some College,4,Republican,Male,0,Disunited,upsetting his supporters,Correct
+40,"(17.9,42]",Non-Hispanic Black,HS,2,Independent,Female,0,United,something about the republicans party,Incorrect
+74,"(66,90.1]",Non-Hispanic White,BA Degree,1,Democrat,Female,0,United,addressing conservatives,Incorrect
+31,"(17.9,42]",Hispanic,HS,1,Democrat,Female,0,United,i hate him,Incorrect
+23,"(17.9,42]",Non-Hispanic White,Some College,4,Democrat,Female,0,United,pleasing his conservative followers,Correct
+18,"(17.9,42]",Non-Hispanic Black,HS,1,Republican,Female,0,Disunited,i don't know.,Incorrect
+69,"(66,90.1]",Non-Hispanic White,HS,2,Democrat,Male,0,United,i don't know i was just pressing buttons.,Incorrect
+30,"(17.9,42]",Non-Hispanic Black,BA Degree,3,Democrat,Female,0,Control,his biography. ,Correct
+38,"(17.9,42]",Non-Hispanic White,Some College,1,Democrat,Female,0,Disunited,no,Incorrect
+63,"(42,66]",Non-Hispanic White,Some College,4,Republican,Male,1,Disunited,upsetting conservatives ,Correct
+32,"(17.9,42]",Hispanic,HS,1,Republican,Female,1,United,turf with china and russia. war with iran russian. how he reacted to puerto rico,Incorrect
+41,"(17.9,42]",Non-Hispanic White,Some College,3,Independent,Male,0,Disunited,i just saw a picture of a mad trump and skipped it,Incorrect
+29,"(17.9,42]",Asian,BA Degree,2,Democrat,Female,1,Disunited,how president trump upset his conservative supporters,Correct
+47,"(42,66]",Non-Hispanic Black,MA Degree,4,Democrat,Male,0,Disunited,it was probably about his recent speech,Incorrect
+28,"(17.9,42]",Non-Hispanic White,MA Degree,1,Republican,Female,0,United,him making conservatives happy,Correct
+24,"(17.9,42]",Non-Hispanic Black,Less than HS,1,Democrat,Female,0,United,i don't have concerns,Incorrect
+27,"(17.9,42]",Non-Hispanic White,HS,4,Republican,Male,0,Control,it is a good store. i like it.,Incorrect
+71,"(66,90.1]",Non-Hispanic White,BA Degree,2,Democrat,Male,0,Disunited,trump upset conservatives,Correct
+34,"(17.9,42]",Non-Hispanic White,Some College,4,Democrat,Male,0,Control,president trump is very good,Incorrect
+64,"(42,66]",Non-Hispanic White,BA Degree,2,Republican,Female,0,Disunited,something about upsetting a group of people,Correct
+49,"(42,66]",Non-Hispanic White,Less than HS,2,Independent,Male,1,Control,biological ,Correct
+37,"(17.9,42]",Non-Hispanic White,BA Degree,7,Republican,Male,0,Disunited,good president in the world,Incorrect
+33,"(17.9,42]",Non-Hispanic White,BA Degree,2,Republican,Male,0,Control,bio information,Correct
+43,"(42,66]",Non-Hispanic White,Some College,2,Democrat,Female,1,Disunited,upsetting his conservative supporters,Correct
+24,"(17.9,42]",Non-Hispanic Black,BA Degree,1,Democrat,Female,0,Control,i was not given any story about president trump,Incorrect
+66,"(42,66]",Non-Hispanic White,Some College,1,Democrat,Female,0,Disunited,im not quite sure,Incorrect
+47,"(42,66]",Non-Hispanic White,BA Degree,2,Independent,Female,1,Control,basic bio info about trump,Correct
+26,"(17.9,42]",Hispanic,HS,2,Democrat,Male,0,Control,none ,Incorrect
+66,"(42,66]",Non-Hispanic White,Some College,2,Republican,Male,0,United,pleasing the party,Correct
+40,"(17.9,42]",Hispanic,HS,5,Democrat,Male,1,Control,he is a president of uk,Incorrect
+38,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,Disunited,i do not care,Incorrect
+40,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,Control,none,Incorrect
+35,"(17.9,42]",Non-Hispanic Black,BA Degree,5,Republican,Female,0,Control,biography ,Correct
+40,"(17.9,42]",Non-Hispanic Black,HS,1,Independent,Male,1,Disunited,he has upset his conservatives as always with something he either said or did,Correct
+39,"(17.9,42]",Non-Hispanic White,BA Degree,6,Democrat,Male,1,Disunited,somewhat ok.somewhat not ok,Incorrect
+36,"(17.9,42]",Asian,HS,1,Republican,Female,1,United,anti nfl,Incorrect
+55,"(42,66]",Non-Hispanic White,HS,2,Independent,Female,0,Control,don't know,Incorrect
+29,"(17.9,42]",Other,Some College,2,Independent,Female,0,Disunited,he had upset quite a few of his followers,Correct
+40,"(17.9,42]",Non-Hispanic White,MA Degree,6,Republican,Male,1,Disunited,don't remember well,Incorrect
+25,"(17.9,42]",Non-Hispanic White,HS,1,Independent,Female,0,Disunited,didnt even read it i just seen him / ,Incorrect
+71,"(66,90.1]",Hispanic,BA Degree,3,Democrat,Female,0,United,do not remember,Incorrect
+35,"(17.9,42]",Non-Hispanic Black,Some College,3,Republican,Male,0,Control,his life,Correct
+43,"(42,66]",Non-Hispanic White,MA Degree,5,Republican,Female,1,United,their wealth and reputation,Incorrect
+26,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,Disunited,never read ,Incorrect
+62,"(42,66]",Non-Hispanic Black,HS,1,Democrat,Female,1,Control,his biography,Correct
+35,"(17.9,42]",Asian,MA Degree,3,Democrat,Female,0,Control,something about him and probably exaggerated lies that he wants people to believe but aren't true.,Incorrect
+66,"(42,66]",Hispanic,BA Degree,5,Republican,Female,0,Control,didnâ€™t read that option. i am not interested in what he says as they are untrue & racist.,Incorrect
+36,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,Disunited,making people mad,Correct
+51,"(42,66]",Non-Hispanic White,Some College,2,Independent,Male,0,United,na,Incorrect
+30,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,United,i am unsure ,Incorrect
+23,"(17.9,42]",Non-Hispanic White,HS,1,Republican,Female,0,United, / hhhjjj,Incorrect
+24,"(17.9,42]",Non-Hispanic Black,Some College,1,Independent,Female,0,Disunited,upsetting his supporters,Correct
+40,"(17.9,42]",Non-Hispanic White,BA Degree,5,Independent,Male,0,United,what aliar he is,Incorrect
+41,"(17.9,42]",Non-Hispanic White,BA Degree,3,Republican,Female,1,Control,basic biographical information on president donald trump,Correct
+20,"(17.9,42]",Other,HS,1,Democrat,Female,0,Disunited,iâ€™m not so sure ,Incorrect
+78,"(66,90.1]",Non-Hispanic White,HS,2,Republican,Female,1,Control,"i am interested in learning more about our president. i think there is more to this man than he is given credit for....he is a very complicated individual, but very interesting...",Incorrect
+68,"(66,90.1]",Non-Hispanic White,HS,1,Republican,Female,0,Disunited,dont remember,Incorrect
+38,"(17.9,42]",Non-Hispanic White,BA Degree,4,Democrat,Female,0,United,how he is pleasing his base,Correct
+26,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,United,he recently did something that pleased his conservative supporters,Correct
+38,"(17.9,42]",Asian,Some College,2,Independent,Female,0,Disunited,i think trump is no good,Incorrect
+34,"(17.9,42]",Non-Hispanic White,Some College,1,Republican,Female,0,Control,biographical information on him,Correct
+44,"(42,66]",Non-Hispanic White,Some College,1,Independent,Female,1,Disunited,how president trump recently upset many of his conservative supporters.,Correct
+68,"(66,90.1]",Non-Hispanic White,Some College,2,Republican,Female,0,Disunited,"didn't even look, saw the pic of trump and assumed it was negative and i'm sick of reading negative articles on trump",Incorrect
+25,"(17.9,42]",Non-Hispanic White,BA Degree,2,Republican,Female,0,Disunited,trump upsetting followers,Correct
+29,"(17.9,42]",Non-Hispanic White,Some College,3,Republican,Male,0,Control,i'm not sure,Incorrect
+34,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,United,i don't know,Incorrect
+34,"(17.9,42]",Non-Hispanic White,HS,1,Independent,Female,0,Control,canâ€™t stand him,Incorrect
+58,"(42,66]",Non-Hispanic White,HS,3,Republican,Female,0,United,about his supporters ,Incorrect
+23,"(17.9,42]",Hispanic,HS,2,Democrat,Female,1,United,what is happen in the wolrd,Incorrect
+29,"(17.9,42]",Non-Hispanic White,Advanced Degree,2,Democrat,Female,0,United,it was about recently pleasing conservatives. ,Correct
+27,"(17.9,42]",Non-Hispanic Black,HS,2,Independent,Male,0,Disunited,the same old news concerning security ,Incorrect
+31,"(17.9,42]",Non-Hispanic White,BA Degree,2,Republican,Female,0,Disunited,it was about president trump's untrustworthy practices.  ,Incorrect
+28,"(17.9,42]",Non-Hispanic White,HS,1,Independent,Female,0,Control,biography,Correct
+44,"(42,66]",Hispanic,HS,1,Democrat,Male,0,United,i donâ€™t know ,Incorrect
+27,"(17.9,42]",Non-Hispanic White,BA Degree,1,Independent,Female,0,United,i have no idea,Incorrect
+74,"(66,90.1]",Non-Hispanic White,Some College,1,Democrat,Female,1,Control,"it is a story of his life. maybe more about his parents, his mother and how he got his money.",Correct
+34,"(17.9,42]",Non-Hispanic White,BA Degree,6,Democrat,Female,1,United,ã“ã‚œã¯å¥‘ç´„ç•ªå·8757016ã§ã™ã€‚  è³¼å…¥ã—ãÿãƒ‰ãƒ©ã‚´ãƒ³ã‚¯ã‚¨ã‚¹ãƒˆxã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‹ã‚‰ã‚¹ã‚¯ã‚¨ã‚¢-ã‚¨ãƒ‹ãƒƒã‚¯ã‚¹ã§ã™ã€‚  ç§ã¯ãã‚œã‚’è³¼å…¥ã—ãÿã¨ãã€ãã‚œã¯ç§ã«ç™»éœ²ã‚³ãƒ¼ãƒ‰ã‚’ä¸žãˆãªã‹ã£ãÿã€‚  åš©ã‘ã¦ãã ã•ã„! / ,Incorrect
+18,"(17.9,42]",Other,Less than HS,1,Independent,Female,0,Disunited,thank the girls i have the pictures of the ,Incorrect
+26,"(17.9,42]",Non-Hispanic Black,HS,2,Independent,Female,0,Disunited,mbjbkbkbk,Incorrect
+20,"(17.9,42]",Non-Hispanic White,Some College,1,Democrat,Female,0,United,trump pleasing his conservative supporters,Correct
+37,"(17.9,42]",Asian,MA Degree,4,Independent,Female,1,Disunited,his actions are deciding the course that us is talking with international allies so it is important to follow him.,Incorrect
+30,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,United,i didnâ€™t read it ,Incorrect
+35,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,Disunited,upsetting the liberals,Incorrect
+18,"(17.9,42]",Non-Hispanic Black,Less than HS,1,Independent,Female,0,Disunited,fake news,Incorrect
+22,"(17.9,42]",Non-Hispanic White,HS,5,Democrat,Female,0,Disunited,i donâ€™t know,Incorrect
+46,"(42,66]",Non-Hispanic White,Some College,3,Independent,Male,1,Control,inside info.,Incorrect
+43,"(42,66]",Non-Hispanic Black,BA Degree,6,Republican,Male,0,Disunited,trump upseting his concervitive supports,Correct
+78,"(66,90.1]",Non-Hispanic White,Some College,2,Democrat,Male,0,Control,"his basic information, but i have heard so much about this boor that i'm moving away from reading everything about this petulant baby.",Correct
+18,"(17.9,42]",Hispanic,HS,1,Independent,Female,0,Disunited,upsetting oposers,Incorrect
+32,"(17.9,42]",Non-Hispanic White,MA Degree,4,Republican,Female,0,United,i do not know. i ignored it because i prefer spies over politics,Incorrect
+46,"(42,66]",Non-Hispanic White,Advanced Degree,7,Democrat,Male,0,United,very good,Incorrect
+39,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,United,didnt pick that one but im sure it was about him being prejudiced ,Incorrect
+58,"(42,66]",Non-Hispanic White,HS,1,Republican,Female,0,Control,i don't know,Incorrect
+72,"(66,90.1]",Non-Hispanic White,MA Degree,2,Republican,Female,1,United,"turning around the economy, creating jobs for all americans, cutting taxes picking conservative supreme court judges. fighting for us, to make america great again.",Incorrect
+38,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Male,0,Disunited,nothing ,Incorrect
+64,"(42,66]",Non-Hispanic White,Some College,2,Democrat,Female,0,Control,i only know it was about trump,Incorrect
+60,"(42,66]",Non-Hispanic White,MA Degree,5,Independent,Male,1,Disunited,upsetting political members,Correct
+30,"(17.9,42]",Non-Hispanic White,Some College,3,Independent,Female,0,Control,i overlooked it,Incorrect
+23,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,United,im unsure. ,Incorrect
+23,"(17.9,42]",Non-Hispanic White,Some College,4,Republican,Female,0,United,pleasing his supporters,Correct
+53,"(42,66]",Non-Hispanic Black,Less than HS,1,Independent,Female,0,Disunited,i don't care,Incorrect
+26,"(17.9,42]",Non-Hispanic White,HS,2,Democrat,Female,0,Control,it was about his biography ,Correct
+18,"(17.9,42]",Non-Hispanic Black,HS,1,Republican,Male,0,United,idk,Incorrect
+48,"(42,66]",Non-Hispanic White,Advanced Degree,7,Democrat,Male,1,Disunited,good news,Incorrect
+21,"(17.9,42]",Non-Hispanic White,HS,1,Republican,Female,0,Control,i don't like trump and don't care about him or what he's doing ,Incorrect
+18,"(17.9,42]",Hispanic,HS,1,Democrat,Female,0,Disunited,president trump was being disrespectful to his conservative reporters ,Correct
+74,"(66,90.1]",Non-Hispanic White,Some College,3,Republican,Male,0,Disunited,trump upsetting conservative people.,Correct
+75,"(66,90.1]",Non-Hispanic White,Some College,3,Democrat,Male,1,United,he is always crying to his base,Incorrect
+33,"(17.9,42]",Non-Hispanic Black,BA Degree,3,Democrat,Female,1,Control,vvv,Incorrect
+18,"(17.9,42]",Hispanic,Less than HS,1,Independent,Female,0,United,didn't bother reading it as i don't care to know anything about him.. /  /  /  /  / ,Incorrect
+45,"(42,66]",Non-Hispanic White,BA Degree,3,Independent,Female,1,Control,basic biography of po president trump,Correct
+60,"(42,66]",Non-Hispanic White,Advanced Degree,2,Republican,Male,0,Disunited,pres. trumps interview deeply upset a major group of potential voters.,Correct
+23,"(17.9,42]",Non-Hispanic White,BA Degree,2,Republican,Female,0,United,pleasing the republicans,Correct
+34,"(17.9,42]",Asian,Some College,7,Republican,Male,0,Control,fhj. kkfddc nkgfv klgdz nkigdrtyb. bhjjb hnbvv bhfdd,Incorrect
+90,"(66,90.1]",Non-Hispanic White,BA Degree,2,Independent,Female,0,Disunited,i do not recall reading anything about trump,Incorrect
+35,"(17.9,42]",Other,MA Degree,6,Democrat,Male,0,Disunited,about the country,Incorrect
+22,"(17.9,42]",Asian,Some College,1,Republican,Male,0,Control,no opinion,Incorrect
+26,"(17.9,42]",Non-Hispanic White,BA Degree,1,Democrat,Female,0,Control,biographical info ,Correct
+67,"(66,90.1]",Non-Hispanic White,Some College,3,Independent,Female,0,Control,donâ€™t know. ,Incorrect
+47,"(42,66]",Non-Hispanic White,Some College,3,Independent,Female,1,Control,biography of him,Correct
+64,"(42,66]",Non-Hispanic White,Less than HS,2,Democrat,Female,0,Control,need to get american great ,Incorrect
+31,"(17.9,42]",Other,Some College,4,Republican,Female,0,United,not sure ,Incorrect
+19,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,United,i dont like trump at all he is such an ass and a bitch ,Incorrect
+70,"(66,90.1]",Non-Hispanic White,HS,2,Republican,Female,0,Disunited,it was about him upsetting his republican base.,Correct
+18,"(17.9,42]",Non-Hispanic White,BA Degree,7,Republican,Female,0,United,"who knows there is so much fake news out there because the democrats have there balls against the band saw, they are out of moves. so they have no choice but to pull up sex scandals they may or may not have happened.",Incorrect
+60,"(42,66]",Non-Hispanic White,Less than HS,2,Republican,Female,1,Control,building the wall,Incorrect
+25,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,Disunited,something about something he said that upset his supporters ,Correct
+55,"(42,66]",Non-Hispanic White,Some College,3,Republican,Female,0,Control,biographical info,Correct
+60,"(42,66]",Non-Hispanic White,HS,1,Independent,Female,0,United,pleading people,Correct
+19,"(17.9,42]",Non-Hispanic White,HS,2,Republican,Female,0,United,talking about his suppoters .,Incorrect
+68,"(66,90.1]",Hispanic,BA Degree,3,Democrat,Male,1,United,pleasing his ultra conservative base,Correct
+20,"(17.9,42]",Non-Hispanic White,Some College,1,Democrat,Female,1,Disunited,an action or word of president trump that upset his supporters,Correct
+29,"(17.9,42]",Non-Hispanic White,Some College,3,Democrat,Female,1,United,about trumps current support with the,Incorrect
+59,"(42,66]",Non-Hispanic White,MA Degree,4,Republican,Female,0,Control,biographical info,Correct
+30,"(17.9,42]",Non-Hispanic White,HS,4,Democrat,Female,0,United,the i is time for ,Incorrect
+52,"(42,66]",Non-Hispanic White,Less than HS,3,Republican,Female,1,Control,facts about him,Correct
+48,"(42,66]",Non-Hispanic White,Some College,2,Independent,Female,1,Disunited,trump is upsetting people,Correct
+47,"(42,66]",Non-Hispanic White,Less than HS,1,Independent,Female,0,United,i don't have nothing to say ,Incorrect
+30,"(17.9,42]",Non-Hispanic White,HS,2,Democrat,Female,0,Control,na,Incorrect
+23,"(17.9,42]",Non-Hispanic White,HS,2,Republican,Female,0,Disunited,neda can g,Incorrect
+54,"(42,66]",Non-Hispanic White,BA Degree,3,Independent,Female,1,United,how he pleases other conservatives,Correct
+20,"(17.9,42]",Non-Hispanic Black,HS,1,Democrat,Female,0,United,itâ€™s about trump trying to win over the conservatives supporters ,Correct
+54,"(42,66]",Non-Hispanic White,Some College,3,Democrat,Male,0,United,he did something that was pleasing for his base so i can only guess what it is i avoud those storys they make my physically ill ,Correct
+33,"(17.9,42]",Non-Hispanic White,MA Degree,5,Democrat,Male,1,Control,good president.like him for his work.,Incorrect
+24,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,Disunited,trump upsetting conservatives,Correct
+22,"(17.9,42]",Non-Hispanic White,HS,2,Democrat,Female,1,Disunited,how one of his remarks angered the republican party. ,Correct
+33,"(17.9,42]",Non-Hispanic White,BA Degree,1,Democrat,Female,1,Disunited,conservatives being increasingly pissed at trump,Correct
+51,"(42,66]",American Indian/Alaskan,HS,1,Democrat,Female,1,Disunited,nope,Incorrect
+67,"(66,90.1]",Non-Hispanic White,HS,1,Democrat,Female,0,Disunited,"didn't really read it...saw his face, not interested ",Incorrect
+51,"(42,66]",American Indian/Alaskan,BA Degree,1,Republican,Female,0,United,political ,Incorrect
+46,"(42,66]",Non-Hispanic White,Advanced Degree,6,Republican,Male,0,Control,good,Incorrect
+30,"(17.9,42]",Non-Hispanic White,HS,1,Independent,Female,0,Disunited,ok ,Incorrect
+46,"(42,66]",Non-Hispanic White,BA Degree,4,Independent,Female,0,United,president trump pleasing his supporters,Correct
+60,"(42,66]",Non-Hispanic White,HS,2,Independent,Female,0,United,no opinion,Incorrect
+33,"(17.9,42]",Non-Hispanic Black,Some College,1,Democrat,Female,0,Disunited,dont care,Incorrect
+28,"(17.9,42]",Non-Hispanic White,Some College,3,Republican,Female,1,United,refugees and the border / ,Incorrect
+58,"(42,66]",Non-Hispanic White,MA Degree,2,Republican,Male,1,Control,he is a great president who truly cares about america.,Incorrect
+31,"(17.9,42]",Non-Hispanic White,Some College,4,Republican,Female,0,Disunited,"this whole thing is about trashing catholics, the catholic church and spreading lies about president trump. ",Incorrect
+55,"(42,66]",Asian,HS,1,Republican,Female,1,Control,good work,Incorrect
+27,"(17.9,42]",Non-Hispanic Black,HS,3,Independent,Male,0,United,he trying to new things fir us,Incorrect
+53,"(42,66]",Non-Hispanic White,Some College,1,Independent,Female,0,Control,personality traits,Incorrect
+46,"(42,66]",Non-Hispanic White,BA Degree,3,Independent,Female,1,United,trump pleasing his conservative supporters,Correct
+51,"(42,66]",Non-Hispanic White,Some College,3,Republican,Male,1,United,most coverage of trump is skewed negative since the commune liberal pieces of shit run the media,Incorrect
+52,"(42,66]",Non-Hispanic White,HS,1,Independent,Female,0,Disunited,i didn't pay attention. it doesn't interest me,Incorrect
+54,"(42,66]",Non-Hispanic White,Some College,2,Republican,Female,1,Disunited,actions upsetting to his base,Correct
+55,"(42,66]",Hispanic,HS,1,Republican,Female,0,United,na,Incorrect
+28,"(17.9,42]",Non-Hispanic White,BA Degree,3,Republican,Female,0,Control,biographical information ,Correct
+67,"(66,90.1]",Non-Hispanic White,BA Degree,5,Democrat,Female,0,Control,biological information ,Correct
+29,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,United,bullshit as usual,Incorrect
+48,"(42,66]",Non-Hispanic Black,Some College,1,Democrat,Female,0,Disunited,"he i very controversial,  eval, a liar of selfish ",Incorrect
+21,"(17.9,42]",Non-Hispanic White,BA Degree,2,Democrat,Female,0,United,president trump ,Incorrect
+20,"(17.9,42]",Hispanic,BA Degree,4,Republican,Male,0,Control,lakennemek,Incorrect
+59,"(42,66]",Non-Hispanic Black,Some College,1,Independent,Female,0,Disunited,anytime i see trump's name i get sick so i didn't understand ,Incorrect
+58,"(42,66]",Non-Hispanic White,Some College,4,Democrat,Female,0,Control,taxes,Incorrect
+63,"(42,66]",Non-Hispanic White,Some College,1,Independent,Female,1,United,pleasing many of his conservative supporters,Correct
+54,"(42,66]",Non-Hispanic White,HS,2,Independent,Female,0,United,people being pleased by trump,Correct
+68,"(66,90.1]",Non-Hispanic White,Some College,3,Independent,Female,0,Disunited,he made his conservative people mad,Correct
+46,"(42,66]",Non-Hispanic White,HS,1,Democrat,Male,1,Disunited,ok,Incorrect
+56,"(42,66]",Non-Hispanic White,HS,1,Democrat,Female,0,Control,biography,Correct
+75,"(66,90.1]",Non-Hispanic White,BA Degree,4,Independent,Male,1,Control,a stoy of his life,Incorrect
+55,"(42,66]",Hispanic,BA Degree,4,Republican,Female,0,Control,his biography ,Correct
+56,"(42,66]",Hispanic,Less than HS,1,Independent,Female,0,Control,donâ€™t like him ,Incorrect
+58,"(42,66]",Non-Hispanic White,MA Degree,6,Republican,Female,1,Disunited,the story was about president trump upsetting conservatives.,Correct
+65,"(42,66]",Non-Hispanic White,MA Degree,3,Republican,Female,0,Disunited,he upset some conservatives,Correct
+62,"(42,66]",Non-Hispanic White,MA Degree,4,Democrat,Male,0,Disunited,good,Incorrect
+62,"(42,66]",Non-Hispanic White,HS,1,Independent,Female,0,Disunited,i did not choose to read anything about trump,Incorrect
+20,"(17.9,42]",Non-Hispanic White,Some College,2,Democrat,Female,1,United,trump pleasing members of his party with certain actions.,Correct
+54,"(42,66]",Non-Hispanic White,Some College,2,Independent,Female,1,Control,i forgot ,Incorrect
+18,"(17.9,42]",Asian,HS,3,Independent,Female,0,Disunited,itâ€™s free when you get to the code and download download free free shipping app free free shipping ,Incorrect
+79,"(66,90.1]",Non-Hispanic White,Some College,4,Republican,Female,1,United,how president trump has pleased his â€œpeopleâ€,Correct
+46,"(42,66]",Non-Hispanic White,Some College,3,Democrat,Female,0,United,his supporters praising his ignorance,Correct
+72,"(66,90.1]",Non-Hispanic White,Some College,2,Independent,Female,1,Control,want to where he is coming from,Incorrect
+62,"(42,66]",Non-Hispanic White,HS,3,Republican,Male,0,United,trump doing a great job,Incorrect
+58,"(42,66]",Non-Hispanic White,Some College,2,Democrat,Female,0,Disunited,trump making other politicians mad,Correct
+68,"(66,90.1]",Non-Hispanic White,Some College,4,Independent,Female,0,United,pleasing many of his conservative supporters,Correct
+51,"(42,66]",Non-Hispanic White,BA Degree,3,Democrat,Female,1,United,talking about ideas that were pleasing to the public.,Correct
+62,"(42,66]",Non-Hispanic White,HS,3,Independent,Male,0,Disunited,im not sure,Incorrect
+54,"(42,66]",Hispanic,HS,2,Republican,Male,1,United,great,Incorrect
+75,"(66,90.1]",Hispanic,MA Degree,4,Democrat,Female,1,United,about how groups support president trump,Correct
+21,"(17.9,42]",Non-Hispanic White,Some College,2,Democrat,Female,0,Control,biographical ,Correct
+58,"(42,66]",Non-Hispanic White,MA Degree,2,Independent,Female,1,Disunited,upsetting his conservative supporters,Correct
+23,"(17.9,42]",Non-Hispanic White,HS,4,Independent,Male,1,Disunited,hhs shhshs shhshsh was the is a good way for ,Incorrect
+20,"(17.9,42]",Hispanic,HS,2,Democrat,Male,0,United,pleasing a number of people ,Correct
+63,"(42,66]",Non-Hispanic White,BA Degree,3,Independent,Male,0,United,him pleasing his supporters ,Correct
+61,"(42,66]",Non-Hispanic White,Some College,4,Independent,Female,1,Control,the story would provide more information about his life growing up ,Correct
+18,"(17.9,42]",Non-Hispanic White,Less than HS,5,Democrat,Female,0,Disunited,about how he upset some people,Correct
+65,"(42,66]",Non-Hispanic White,HS,2,Republican,Male,1,United,pleasing his supporters,Correct
+60,"(42,66]",Non-Hispanic White,BA Degree,5,Republican,Female,1,United,"about pleasing his voters , which makes this survey biased because heâ€™s for all americans , not just his base",Correct
+60,"(42,66]",Non-Hispanic White,MA Degree,3,Democrat,Male,0,United,him pleasing many of his conservative supporters,Correct
+21,"(17.9,42]",Hispanic,HS,4,Democrat,Male,0,Disunited,trump,Incorrect
+72,"(66,90.1]",Non-Hispanic White,Some College,2,Republican,Male,1,Control,basic biographical information,Correct
+53,"(42,66]",Non-Hispanic White,BA Degree,5,Republican,Male,1,United,he did something that pleased his constituents. ,Correct
+74,"(66,90.1]",Non-Hispanic White,MA Degree,2,Republican,Male,0,United,supporting his friends.,Correct
+46,"(42,66]",Non-Hispanic White,BA Degree,6,Republican,Male,0,Disunited,are the best ,Incorrect
+49,"(42,66]",Non-Hispanic White,BA Degree,4,Republican,Male,0,United,"trump is going back to hollywood to show off his acting abilities. trump is going to try to convince republicans that an isolationist, populist, high tax laden, big brother president is actually conservative.",Incorrect
+45,"(42,66]",Non-Hispanic White,Some College,2,Republican,Male,0,United,president trump pleasing his conservitive followers.,Correct
+57,"(42,66]",Non-Hispanic White,MA Degree,7,Republican,Male,0,Disunited,too well,Incorrect
+50,"(42,66]",Non-Hispanic Black,BA Degree,2,Republican,Male,0,United,himself,Incorrect
+47,"(42,66]",Non-Hispanic White,MA Degree,7,Republican,Male,1,Control,he is very good man.,Incorrect
+63,"(42,66]",Non-Hispanic White,BA Degree,4,Republican,Male,0,Disunited,trump upsetting republican supporters ,Correct
+80,"(66,90.1]",Non-Hispanic White,HS,2,Republican,Male,1,Disunited,"ties with russia, russian investigation.",Incorrect
+53,"(42,66]",Non-Hispanic White,Some College,4,Independent,Male,0,Disunited,did not care about him,Incorrect
+46,"(42,66]",Non-Hispanic White,Advanced Degree,7,Republican,Male,1,Control,"donald john trump is the 45th and current president of the united states. before entering politics, he was a businessman and television personality. trump was born and raised in the new york city borough of queens, and received an economics degree from the wharton school of the university of pennsylvania",Incorrect
+45,"(42,66]",Hispanic,Advanced Degree,7,Democrat,Male,0,Disunited,11,Incorrect
+75,"(66,90.1]",Non-Hispanic White,HS,3,Republican,Male,1,United,his pleasing his base,Correct
+73,"(66,90.1]",Non-Hispanic White,BA Degree,3,Republican,Male,1,United,about trying to please his conservative fellow republicans,Correct
+68,"(66,90.1]",Non-Hispanic White,MA Degree,5,Republican,Male,0,Control,his bio,Correct
+72,"(66,90.1]",Non-Hispanic White,BA Degree,6,Republican,Male,0,Disunited,how his comments upset some of his supporters.,Correct
+76,"(66,90.1]",Non-Hispanic White,Some College,4,Republican,Male,1,Disunited,president trump's decisions upsetting the republican party,Correct
+71,"(66,90.1]",Non-Hispanic White,BA Degree,3,Republican,Male,0,Control,"how he stands biographically is of little importance to me, even though i support him. his pedigree is of no concern to me",Correct
+76,"(66,90.1]",Non-Hispanic White,BA Degree,3,Democrat,Male,0,Disunited,some actions that upset his supporters,Correct
+55,"(42,66]",Non-Hispanic White,BA Degree,4,Republican,Male,0,Disunited,how he has upset many conservative groups.,Correct
+61,"(42,66]",Non-Hispanic White,BA Degree,5,Democrat,Male,1,Disunited,trump upsetting his conservative supporters,Correct
+67,"(66,90.1]",Non-Hispanic White,HS,3,Republican,Male,1,United,president trump pleasing his conservative supporters.,Correct
+62,"(42,66]",Non-Hispanic White,BA Degree,6,Republican,Male,0,Disunited,the conservative base was upset with his commentary,Correct
+53,"(42,66]",Non-Hispanic White,BA Degree,6,Republican,Male,0,Disunited,upsetting supporters,Correct
+53,"(42,66]",Non-Hispanic White,Some College,5,Republican,Male,0,United,i didn't look to see.  seeing his picture was enough to make me pass over that article.,Incorrect
+72,"(66,90.1]",Non-Hispanic White,Some College,5,Democrat,Male,0,Control,there's already too much news devoted to mr. trump.  i'd rather watch grass grow than watch mr. trump.,Incorrect
+71,"(66,90.1]",Non-Hispanic White,Some College,3,Republican,Male,1,United,pleasing republican voters,Correct
+75,"(66,90.1]",Non-Hispanic White,BA Degree,3,Democrat,Male,0,Control,biographical info about trump,Correct
+75,"(66,90.1]",Non-Hispanic White,BA Degree,4,Republican,Male,1,Control,his biography,Correct
+76,"(66,90.1]",Non-Hispanic White,MA Degree,4,Republican,Male,0,Control,biographical history of pres trump,Correct
+66,"(42,66]",Non-Hispanic White,Some College,3,Republican,Male,1,United,pleasing conservatives,Correct
+76,"(66,90.1]",Non-Hispanic White,MA Degree,4,Republican,Male,1,United,his story,Correct
+47,"(42,66]",Non-Hispanic White,Some College,3,Republican,Male,0,Control,basic biographical information,Correct
+58,"(42,66]",Non-Hispanic White,MA Degree,4,Republican,Male,0,Disunited,it was about president trump upsetting conservative supporters.,Correct
+85,"(66,90.1]",Non-Hispanic White,BA Degree,3,Independent,Male,0,United,trump pleasing his conservative supporters,Correct
+58,"(42,66]",Non-Hispanic White,BA Degree,4,Republican,Male,1,Disunited,just another fake news article from the left,Incorrect
+60,"(42,66]",Non-Hispanic White,Some College,3,Republican,Male,1,Control,biographical information,Correct
+78,"(66,90.1]",Non-Hispanic White,HS,3,Republican,Male,1,Disunited,the president recently upset some of his conservative supporters.,Correct
+74,"(66,90.1]",Non-Hispanic White,Advanced Degree,5,Republican,Male,1,Disunited,losing support from some conservative republicans.,Correct
+49,"(42,66]",Non-Hispanic White,MA Degree,5,Republican,Male,0,Disunited,"to be honest, i am so sick of hearing about trump and the msm tendancy to over-dramatize anthing about him that i ignored it out of a total lack of desire to even know what it was about.",Incorrect
+75,"(66,90.1]",Non-Hispanic White,MA Degree,4,Republican,Male,1,United,pleasing the people of the us,Correct
+50,"(42,66]",Non-Hispanic White,HS,3,Republican,Male,0,Disunited,about him upsetting his party by something he said,Correct
+75,"(66,90.1]",Non-Hispanic White,BA Degree,3,Republican,Male,1,Control,his biography,Correct
+55,"(42,66]",Non-Hispanic White,HS,4,Republican,Male,0,United,something about making his supporters happy. ,Correct
+45,"(42,66]",Non-Hispanic White,BA Degree,4,Republican,Male,0,United,trump not pleasing to mary,Incorrect
+74,"(66,90.1]",Non-Hispanic White,Some College,3,Republican,Male,0,Disunited,upsetting conservative supporters,Correct
+67,"(66,90.1]",Non-Hispanic White,BA Degree,3,Republican,Male,0,Disunited,upsetting his conservative followers,Correct
+60,"(42,66]",Non-Hispanic White,Some College,3,Republican,Male,1,Disunited,it was about how he upset some of his conservative supporters.,Correct
+62,"(42,66]",Non-Hispanic White,BA Degree,3,Democrat,Male,0,Control,his biography of his life and how he achieved the position of president.,Correct
+69,"(66,90.1]",Non-Hispanic White,BA Degree,4,Republican,Male,0,United,support republican views,Correct
+72,"(66,90.1]",Non-Hispanic White,Some College,4,Republican,Male,1,Disunited,giving his opinion,Incorrect
+53,"(42,66]",Non-Hispanic White,Some College,4,Republican,Male,0,Disunited,upsetting conservatives. ,Correct
+66,"(42,66]",Non-Hispanic White,Some College,4,Republican,Male,1,Disunited,president trump upsetting republicans,Correct
+24,"(17.9,42]",Hispanic,Some College,3,Republican,Male,1,United,heâ€™s a good president ,Incorrect
+64,"(42,66]",Non-Hispanic Black,BA Degree,4,Independent,Male,1,Disunited,na,Incorrect
+63,"(42,66]",Asian,Some College,3,Democrat,Male,0,United,don't remember,Incorrect
+21,"(17.9,42]",Asian,Some College,5,Democrat,Male,0,United,trump pleasing some of his supporters ,Correct
+56,"(42,66]",Hispanic,HS,5,Independent,Male,0,United,he had ties with the russians for the presidence,Incorrect
+52,"(42,66]",Asian,MA Degree,3,Democrat,Male,1,Control,joke,Incorrect
+56,"(42,66]",Non-Hispanic Black,BA Degree,4,Independent,Male,0,United,can't remember...,Incorrect
+66,"(42,66]",Non-Hispanic Black,HS,3,Republican,Male,1,Control,don't know,Incorrect
+54,"(42,66]",Asian,BA Degree,3,Democrat,Male,0,Disunited,"as soon as i saw it involved him, i moved on to the next story.",Incorrect
+22,"(17.9,42]",Asian,BA Degree,3,Democrat,Male,0,Disunited,republicans,Incorrect
+62,"(42,66]",Hispanic,Some College,5,Republican,Male,0,United,suckingbup 2 base,Correct
+84,"(66,90.1]",Non-Hispanic Black,MA Degree,4,Independent,Male,0,United,have no idea.  i did not read about the liar.,Incorrect
+71,"(66,90.1]",Non-Hispanic Black,HS,4,Republican,Male,0,Control,basic information,Correct
+55,"(42,66]",Non-Hispanic Black,MA Degree,5,Independent,Male,0,United,pleasing his conservative base,Correct
+64,"(42,66]",Asian,BA Degree,5,Republican,Male,1,United,pleasing conservative supporters.,Correct
+72,"(66,90.1]",Non-Hispanic Black,Some College,3,Independent,Male,0,United,pleasing his conservative supporters,Correct
+55,"(42,66]",Asian,BA Degree,5,Democrat,Male,0,Disunited,overall satisfied ,Incorrect
+51,"(42,66]",Hispanic,Advanced Degree,4,Democrat,Male,0,Disunited,bbbjmvkk,Incorrect
+46,"(42,66]",Hispanic,Some College,4,Independent,Male,0,Disunited,none,Incorrect
+68,"(66,90.1]",Non-Hispanic Black,MA Degree,4,Democrat,Male,0,Disunited,i rarely pay any attention to articles about president trump because he behaves so unpresidential.,Incorrect
+49,"(42,66]",Asian,MA Degree,5,Democrat,Male,0,United,good,Incorrect
+66,"(42,66]",Non-Hispanic Black,Some College,3,Democrat,Male,0,Control,biographical story on trump,Correct
+55,"(42,66]",Non-Hispanic Black,BA Degree,3,Democrat,Male,0,United,dividing the country as a hold!,Incorrect
+47,"(42,66]",Hispanic,BA Degree,7,Republican,Male,1,United,very perfect and strong,Incorrect
+72,"(66,90.1]",Asian,MA Degree,7,Republican,Male,1,Control,to know the philosophy of donald trump and the way in which he performed earlier as a realtor and his style of functioning in his companies and his trustworthiness and his behaviour towards his colleagues and employees and public. interested to know why he is so sceptical and frequently changes his stance on policies and his adamancy on insisting everybody to follow his way.,Incorrect
+49,"(42,66]",Non-Hispanic Black,BA Degree,4,Democrat,Male,0,Control,his policies,Incorrect
+69,"(66,90.1]",Asian,BA Degree,3,Democrat,Male,0,United,how president trump pleased conservatives recently.,Correct
+52,"(42,66]",Asian,BA Degree,3,Independent,Male,0,United,i am not very intetested in what ttump has to say,Incorrect
+55,"(42,66]",Hispanic,BA Degree,5,Republican,Male,0,Control,biograph info,Correct
+75,"(66,90.1]",Non-Hispanic Black,BA Degree,5,Democrat,Male,0,Disunited,trump upsetting conseratives,Correct
+65,"(42,66]",Non-Hispanic Black,Some College,3,Democrat,Male,0,United,pleasing his constituents,Correct
+23,"(17.9,42]",Asian,MA Degree,5,Democrat,Male,0,United,dbke ene dmddnr ,Incorrect
+24,"(17.9,42]",Non-Hispanic Black,Advanced Degree,7,Democrat,Male,0,Control,i forgot.,Incorrect
+24,"(17.9,42]",Asian,BA Degree,5,Democrat,Male,0,Control,it was basic biographical information about president trump,Correct
+50,"(42,66]",Asian,Advanced Degree,6,Democrat,Male,0,Control,he is not worth any story but it was about health,Incorrect
+54,"(42,66]",Hispanic,BA Degree,3,Democrat,Male,0,Control,about his biografy,Correct
+49,"(42,66]",Asian,MA Degree,5,Independent,Male,0,United,trump supporting conservative supporters,Correct
+63,"(42,66]",Hispanic,BA Degree,3,Independent,Male,0,United,lying and cheating ,Incorrect
+24,"(17.9,42]",Hispanic,BA Degree,3,Democrat,Male,0,Control,trump wanted to reach a middle point between the two parties,Incorrect
+51,"(42,66]",Hispanic,Some College,3,Republican,Male,0,United,do not remember,Incorrect
+24,"(17.9,42]",Hispanic,BA Degree,4,Democrat,Male,0,United,fuck trump,Incorrect
+18,"(17.9,42]",Hispanic,Some College,3,Democrat,Male,1,Disunited,trump misrepresenting the conservatives and his core supporters once again. ,Correct
+63,"(42,66]",Hispanic,MA Degree,4,Democrat,Male,1,Disunited,about him upsetting conservatives,Correct
+52,"(42,66]",Hispanic,HS,5,Democrat,Male,0,United,president trump pleasing his supporters,Correct
+20,"(17.9,42]",Hispanic,Some College,3,Democrat,Male,0,Disunited,trump making his supporters mad.,Correct
+58,"(42,66]",Asian,MA Degree,7,Democrat,Male,0,Disunited,it was about how he angered other republicans.,Correct
+57,"(42,66]",Hispanic,BA Degree,5,Democrat,Male,0,United,talks to his supporters,Incorrect
+21,"(17.9,42]",Hispanic,HS,4,Independent,Male,0,Disunited,it was about trump upsetting a decent portion of his conservative supporters.,Correct
+68,"(66,90.1]",Hispanic,MA Degree,4,Independent,Male,0,United,being pleasant about his conservatives  supporters,Correct
+46,"(42,66]",Hispanic,Some College,5,Independent,Male,0,Disunited,i don't know ,Incorrect
+48,"(42,66]",Hispanic,BA Degree,3,Democrat,Male,1,Disunited,upsetting his conservative supporters,Correct
+65,"(42,66]",Hispanic,Some College,3,Republican,Male,0,United,i did not put that much attention to that story,Incorrect
+24,"(17.9,42]",Hispanic,Some College,4,Democrat,Male,0,United,pleasing americans ,Correct
+45,"(42,66]",Hispanic,Less than HS,3,Independent,Male,0,United,trump is a bad president ,Incorrect
+47,"(42,66]",Hispanic,HS,3,Democrat,Male,0,Control,a biography ,Correct
+61,"(42,66]",Hispanic,Some College,6,Democrat,Male,0,United,talking about how great he is,Incorrect
+29,"(17.9,42]",Non-Hispanic Black,BA Degree,4,Democrat,Male,0,Control,cool,Incorrect
+27,"(17.9,42]",Hispanic,Some College,1,Republican,Female,0,Disunited,president trump upsetting many conservative supporters. ,Correct
+34,"(17.9,42]",Non-Hispanic White,HS,1,Republican,Female,0,United,don't remember,Incorrect
+25,"(17.9,42]",Hispanic,Some College,2,Independent,Female,0,United,said something stupid on twitter again.,Incorrect
+25,"(17.9,42]",Non-Hispanic White,MA Degree,3,Democrat,Male,0,Disunited,great,Incorrect
+38,"(17.9,42]",Non-Hispanic White,HS,1,Democrat,Male,0,Control,trump sucks,Incorrect
+36,"(17.9,42]",Non-Hispanic White,MA Degree,5,Republican,Female,0,Disunited,the ah is a half day is app to me a little more than a year away and no no wonder one ,Incorrect
+25,"(17.9,42]",Hispanic,BA Degree,1,Independent,Female,0,United,trumps policies and decisions and views,Incorrect
+45,"(42,66]",Hispanic,BA Degree,2,Republican,Female,0,Disunited,something about him upsetting his conservative supporters,Correct
+55,"(42,66]",Hispanic,Some College,1,Democrat,Male,1,United,i think is right that concept ,Incorrect
+29,"(17.9,42]",Asian,BA Degree,4,Democrat,Female,0,Disunited,it was a story about trump and his specific views on issues,Correct
+38,"(17.9,42]",Hispanic,BA Degree,5,Democrat,Female,0,United,agreeing with his party ,Correct
+42,"(17.9,42]",Hispanic,Less than HS,2,Independent,Male,0,Control,don't know ,Incorrect
+27,"(17.9,42]",Hispanic,HS,3,Independent,Male,0,Control,something about his early life ,Correct
+36,"(17.9,42]",Other,MA Degree,4,Republican,Female,1,Control,it was discuss his early childhood how he made money now his road to becoming president and how to be a good business person,Correct
+36,"(17.9,42]",Hispanic,BA Degree,2,Democrat,Female,0,United,the republican party ,Incorrect
+27,"(17.9,42]",Non-Hispanic White,Some College,3,Democrat,Female,1,United,because i wanna see what itâ€™s about ,Incorrect
+39,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Male,0,Disunited,the left making up lies,Incorrect
+33,"(17.9,42]",Hispanic,HS,5,Independent,Female,1,Control,cant recall,Incorrect
+28,"(17.9,42]",Hispanic,Some College,2,Independent,Female,0,Disunited,"just trump, i'm not sure already",Incorrect
+36,"(17.9,42]",Hispanic,BA Degree,2,Democrat,Male,0,United,one of his controversies,Incorrect
+38,"(17.9,42]",Hispanic,BA Degree,4,Democrat,Female,0,Control,i do not know,Incorrect
+30,"(17.9,42]",Non-Hispanic White,Some College,2,Republican,Male,1,United,about these same matteres,Incorrect
+39,"(17.9,42]",Non-Hispanic White,BA Degree,4,Independent,Female,0,Disunited,him upsetting people ,Correct
+34,"(17.9,42]",Hispanic,HS,2,Republican,Male,0,United,it was about trump being a liberal,Incorrect
+31,"(17.9,42]",Hispanic,HS,2,Republican,Female,1,United,none / ,Incorrect
+59,"(42,66]",Hispanic,MA Degree,3,Independent,Female,1,Disunited,somthing new to the goverment,Incorrect
+30,"(17.9,42]",Non-Hispanic White,Some College,2,Independent,Female,0,United,a ridiculously story of him pleasing people / ,Correct
+24,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Female,0,United,him pleasing conservative followers / ,Correct
+54,"(42,66]",Non-Hispanic White,BA Degree,4,Democrat,Female,0,United,president trump pleasing many of his conservative supporters ,Correct
+27,"(17.9,42]",Hispanic,BA Degree,3,Independent,Male,0,Disunited,that he is recently upsetting his republican supporters,Correct
+30,"(17.9,42]",Hispanic,BA Degree,2,Democrat,Male,1,United,pres. trump saying or doing something to excite his base,Correct
+38,"(17.9,42]",Non-Hispanic White,BA Degree,3,Republican,Male,0,Control,his beleifs,Incorrect
+58,"(42,66]",Non-Hispanic Black,HS,1,Democrat,Female,0,Control,i'm sorry i just don't talk about president trump,Incorrect
+31,"(17.9,42]",Non-Hispanic White,BA Degree,2,Independent,Male,1,Control,it was a article about his life.,Correct
+30,"(17.9,42]",Hispanic,Some College,3,Democrat,Female,0,Control,i didnt read it,Incorrect
+26,"(17.9,42]",Hispanic,BA Degree,4,Independent,Female,1,Disunited,how he upset several of his conservative supporters,Correct
+31,"(17.9,42]",Hispanic,Some College,3,Independent,Female,0,Control,neutral,Incorrect
+42,"(17.9,42]",Non-Hispanic White,BA Degree,4,Republican,Female,0,Control,his biographical information,Correct
+20,"(17.9,42]",Hispanic,Some College,1,Democrat,Female,0,Disunited,president trump opens his mouth ,Incorrect
+32,"(17.9,42]",Asian,BA Degree,5,Independent,Female,0,Control,his biography,Correct
+33,"(17.9,42]",Non-Hispanic White,HS,2,Republican,Female,1,Disunited,it was the most interesting.,Incorrect
+37,"(17.9,42]",Non-Hispanic White,HS,1,Democrat,Male,1,Control,i prefer dont said ,Incorrect
+46,"(42,66]",Non-Hispanic White,MA Degree,3,Republican,Female,1,Disunited,trump upsetting some of his conservative supporters,Correct
+18,"(17.9,42]",Hispanic,Less than HS,2,Democrat,Female,0,Control,the trump article was just basic biographical information. ,Correct
+30,"(17.9,42]",Hispanic,MA Degree,4,Independent,Female,0,Control,his basic biography,Correct
+31,"(17.9,42]",Non-Hispanic White,MA Degree,5,Independent,Male,1,Disunited,i am interested in topics regarding our president and political news as it affects our country.,Incorrect
+28,"(17.9,42]",Other,HS,2,Democrat,Female,1,Disunited,i don't know enough to comment.,Incorrect
+38,"(17.9,42]",Non-Hispanic White,HS,4,Democrat,Male,1,Disunited,trump supports stuff,Incorrect
+33,"(17.9,42]",Non-Hispanic White,BA Degree,5,Republican,Female,0,United,was showing what trump was up to currently. honestly just saw a picture of him and skipped over the headline. also side note as there is no other place to put this. i donâ€™t think anyone should be taxed more just because they earn more money. why work hard to have give more up? all should be taxed the same amount. most of that taxed money goes to waste anyway. ,Incorrect
+25,"(17.9,42]",Hispanic,BA Degree,4,Democrat,Male,1,United,about his current decision in politics,Incorrect
+48,"(42,66]",Hispanic,BA Degree,4,Independent,Female,0,Control,birographical basic story of president trump.,Correct
+38,"(17.9,42]",Hispanic,MA Degree,1,Independent,Female,0,United,i have no idea.,Incorrect
+18,"(17.9,42]",Non-Hispanic White,Less than HS,7,Democrat,Female,0,United,it was about trump pleasing conservatives.,Correct
+39,"(17.9,42]",Non-Hispanic White,HS,2,Independent,Female,0,United,he did something to please the conservatives.,Correct
+63,"(42,66]",Non-Hispanic White,Some College,2,Republican,Female,1,Control,his history,Correct
+58,"(42,66]",Other,BA Degree,1,Democrat,Male,0,United,kissing the asses of his supporters and how they all got off.,Correct
+35,"(17.9,42]",Non-Hispanic Black,BA Degree,5,Democrat,Male,0,Control,yes,Incorrect
+38,"(17.9,42]",Non-Hispanic White,Some College,1,Independent,Male,0,Control,"a biography... it's about trump, so i didn't pay much attention.",Correct
+36,"(17.9,42]",Non-Hispanic Black,Some College,4,Democrat,Male,0,Control,a simple bio of his life,Correct
+19,"(17.9,42]",Other,HS,1,Democrat,Male,0,Control,learning about his life,Correct
+36,"(17.9,42]",Non-Hispanic White,MA Degree,4,Democrat,Male,1,Disunited,upsetting the republican base.,Correct
+37,"(17.9,42]",Asian,MA Degree,4,Democrat,Female,0,Disunited,good ,Incorrect
+64,"(42,66]",Non-Hispanic White,Some College,2,Republican,Female,0,Disunited,trump upsetting his supporters.,Correct
+37,"(17.9,42]",Non-Hispanic White,HS,3,Independent,Female,0,Disunited,how the president is angering his own party,Correct
+48,"(42,66]",Hispanic,Some College,3,Democrat,Female,0,Disunited,trump upsetting controversial opponent,Incorrect
+38,"(17.9,42]",Hispanic,BA Degree,2,Democrat,Female,0,Control,"the story is about red cross, donating blood to the blood bank for free to store it up just in case their a big calamities happened.",Incorrect
+56,"(42,66]",Hispanic,Advanced Degree,3,Democrat,Male,0,Control,hate him,Incorrect
+76,"(66,90.1]",Non-Hispanic White,Some College,2,Democrat,Male,1,Disunited,about republicans who don't agree with trump,Correct
+57,"(42,66]",Hispanic,HS,4,Republican,Female,1,Disunited,his involvement in society's issues & his involvement. ,Incorrect
+55,"(42,66]",Hispanic,HS,1,Republican,Male,0,United,no comment,Incorrect
+23,"(17.9,42]",Hispanic,Some College,3,Republican,Male,1,Control,it is the basic biography of donald trump ,Correct
+38,"(17.9,42]",Hispanic,Advanced Degree,7,Democrat,Male,0,Control,it is so cool,Incorrect
+80,"(66,90.1]",Hispanic,Some College,2,Republican,Female,1,United,president trump pleasing his  supporters,Correct
+24,"(17.9,42]",Hispanic,BA Degree,4,Republican,Female,0,Control,it was going to be about him on a biological standpoint. ,Correct
+42,"(17.9,42]",Hispanic,Less than HS,2,Independent,Female,1,Disunited,president trump humiliate the world again,Incorrect
+63,"(42,66]",Non-Hispanic White,Some College,4,Republican,Female,0,Disunited,the usually non-fact based story about how bad trump is.,Incorrect
+47,"(42,66]",Non-Hispanic White,Some College,5,Republican,Female,0,Control,it was fine. neutral to be fair,Incorrect
+63,"(42,66]",Hispanic,Some College,2,Democrat,Female,0,Control,his background,Correct
+58,"(42,66]",Non-Hispanic White,BA Degree,2,Republican,Male,0,United,ok,Incorrect
+20,"(17.9,42]",Non-Hispanic White,Some College,4,Republican,Female,0,Disunited,nothing,Incorrect
+50,"(42,66]",Hispanic,Some College,4,Democrat,Female,1,Disunited,it was a story about how he upset some of his conservative voters.,Correct
+70,"(66,90.1]",Non-Hispanic White,Less than HS,2,Republican,Female,1,Disunited,don't know,Incorrect
+20,"(17.9,42]",Hispanic,BA Degree,4,Democrat,Female,0,Control,it was probably regarding something dumb or some rule that trump wanted to out,Incorrect
+19,"(17.9,42]",Non-Hispanic Black,BA Degree,1,Democrat,Male,0,Control,love,Incorrect
+37,"(17.9,42]",Non-Hispanic White,HS,1,Independent,Female,1,Control,it was a short biography,Correct
+53,"(42,66]",Hispanic,Some College,3,Independent,Female,0,United,donald trump pleasing their supporters,Correct
+70,"(66,90.1]",Hispanic,HS,3,Independent,Female,1,Disunited,thinking about new stories about president trump thinking about the things he has said in public and how asinine it sounds,Incorrect
+63,"(42,66]",Hispanic,BA Degree,5,Democrat,Female,1,Disunited,"i just saw that it was about trump, and any article on him would be much more interesting than seat belt use trends over10 years, local sports scores, and iâ€™ve already forgotten the third story.",Incorrect
+78,"(66,90.1]",Non-Hispanic White,MA Degree,4,Independent,Male,0,United,president trump and the conservative party.,Incorrect
+59,"(42,66]",Non-Hispanic White,HS,4,Democrat,Female,0,Disunited,idk how he felt about something ,Incorrect
+45,"(42,66]",Non-Hispanic White,BA Degree,3,Republican,Female,0,Disunited,"upsetting people, which is a daily occurrence.",Correct
+45,"(42,66]",Non-Hispanic Black,Advanced Degree,6,Republican,Male,1,Disunited,no comments,Incorrect
+48,"(42,66]",Hispanic,Advanced Degree,5,Democrat,Male,0,Control,basic biographical information.,Correct
+45,"(42,66]",Hispanic,Some College,6,Democrat,Female,1,United,something he did to make his supporters happy ,Correct
+67,"(66,90.1]",Hispanic,Some College,4,Independent,Male,0,Disunited,that he upset some people he was addressing.,Correct
+48,"(42,66]",Hispanic,HS,3,Independent,Male,0,Disunited,i did not pay attention to it ,Incorrect
+19,"(17.9,42]",Hispanic,BA Degree,1,Democrat,Male,0,Disunited,oops /  / ,Incorrect
+72,"(66,90.1]",Non-Hispanic White,BA Degree,4,Independent,Male,0,United,impeach him,Incorrect
+19,"(17.9,42]",Non-Hispanic White,BA Degree,4,Independent,Male,0,United,it was about how he had pleased some of his conservative people.,Correct
+54,"(42,66]",Hispanic,Less than HS,5,Republican,Male,1,United,he continues to keep his promises and that is the most important thing to me. ,Incorrect
+54,"(42,66]",Hispanic,HS,4,Democrat,Male,0,United,pleasing conservdants ,Correct
+48,"(42,66]",Hispanic,BA Degree,4,Democrat,Male,0,Disunited,president trump has no place in the white house.  he is dividing the country. ,Incorrect
+61,"(42,66]",Hispanic,MA Degree,5,Democrat,Male,0,United,bragging about his so-called accomplishments have strengthened the party,Incorrect
+55,"(42,66]",Hispanic,Some College,4,Democrat,Male,0,Disunited,i did not read it,Incorrect
+65,"(42,66]",Hispanic,Some College,5,Democrat,Male,0,United,"i don't know. anything involving trump, i pay no attention to.",Incorrect
+20,"(17.9,42]",American Indian/Alaskan,MA Degree,5,Democrat,Male,0,United,the crisis,Incorrect
+24,"(17.9,42]",Hispanic,BA Degree,1,Democrat,Male,0,Control,no comments,Incorrect
+49,"(42,66]",Non-Hispanic Black,MA Degree,3,Democrat,Female,0,Disunited,likes attention,Incorrect
+51,"(42,66]",Non-Hispanic White,BA Degree,1,Democrat,Female,0,Control,biographical information,Correct
+18,"(17.9,42]",Hispanic,Some College,2,Democrat,Female,0,United,trump and his increased in tax and financial pay,Incorrect
+19,"(17.9,42]",Hispanic,HS,1,Republican,Female,1,Disunited,when they said he was rasits because he wants to build a wall i was very concerned ,Incorrect
+48,"(42,66]",Hispanic,MA Degree,7,Democrat,Male,0,Control,i dont know,Incorrect
+64,"(42,66]",Non-Hispanic Black,Some College,1,Democrat,Male,0,Control,his inability to be concerned with people,Incorrect
+23,"(17.9,42]",Hispanic,HS,3,Independent,Female,0,Control,catholics and trump,Incorrect
+52,"(42,66]",Hispanic,Some College,3,Independent,Female,0,United,he was trying to voice his opinion and support of the conservatives,Correct
+47,"(42,66]",Hispanic,Some College,3,Independent,Female,1,United,how he favor his conservative allies,Correct
+22,"(17.9,42]",Non-Hispanic Black,HS,3,Independent,Male,1,United,everything,Incorrect
+45,"(42,66]",Hispanic,BA Degree,5,Democrat,Female,1,Disunited,djt angering the conservatives,Correct
+45,"(42,66]",Hispanic,Some College,3,Democrat,Female,0,Disunited,him disappointing his conservative party,Correct
+69,"(66,90.1]",Hispanic,Some College,3,Independent,Female,0,Disunited,donâ€™t know didnâ€™t look,Incorrect
+71,"(66,90.1]",Non-Hispanic White,BA Degree,5,Democrat,Female,0,Control,have no idea - saw the words trump and shut down - the man spews bitterness and isn't worth listening to,Incorrect
+49,"(42,66]",Hispanic,HS,4,Independent,Male,0,Control,basic biographical information ,Correct
+75,"(66,90.1]",Non-Hispanic White,BA Degree,7,Democrat,Female,1,United,pleasing his conservative base,Correct
+72,"(66,90.1]",Non-Hispanic White,MA Degree,2,Democrat,Male,0,Control,bio...â€¦â€¦â€¦â€¦.background of an idiot,Correct
+74,"(66,90.1]",Hispanic,BA Degree,3,Democrat,Female,0,United,trump pleasing his base,Correct
+58,"(42,66]",Non-Hispanic White,BA Degree,5,Independent,Male,1,United,how he was pleasing his supporters,Correct
+61,"(42,66]",Hispanic,BA Degree,2,Democrat,Male,1,Control,biology of donald trump,Correct
+66,"(42,66]",Non-Hispanic White,Some College,1,Democrat,Female,0,Disunited,xxxxxxxxxxxxxxxxxxxxxxx,Incorrect
+45,"(42,66]",Non-Hispanic White,Some College,2,Independent,Female,1,Disunited,trump upsetting his conservative supporters,Correct
+57,"(42,66]",Non-Hispanic White,BA Degree,5,Democrat,Male,0,United,most likely a stupid remark,Incorrect
+49,"(42,66]",Hispanic,Advanced Degree,1,Democrat,Male,0,Control,it is about how evil the national press thinks he is,Incorrect
+61,"(42,66]",Non-Hispanic Black,Some College,3,Democrat,Male,0,Disunited,not sure donâ€™t care about trump the rascist president ,Incorrect
+48,"(42,66]",Hispanic,BA Degree,5,Independent,Male,0,Disunited,upsetting his conservative backers,Correct
+63,"(42,66]",Hispanic,Some College,4,Republican,Male,0,United,about being conservative ,Incorrect
+58,"(42,66]",Hispanic,BA Degree,3,Democrat,Male,0,Disunited,about he lies to his own people ignorant conservatives that believe his bull cr**p,Correct
+71,"(66,90.1]",Hispanic,Some College,3,Independent,Male,1,United,talking about all his liberal friends,Incorrect
+72,"(66,90.1]",Hispanic,HS,3,Democrat,Male,0,Control,the presidente trump is no good presidente my don't like .,Incorrect
+53,"(42,66]",Hispanic,HS,1,Independent,Male,0,United,!,Incorrect
+72,"(66,90.1]",Non-Hispanic White,MA Degree,7,Republican,Male,0,Disunited,it addressed trump's activities and areas of support,Incorrect
+68,"(66,90.1]",Non-Hispanic White,BA Degree,4,Democrat,Male,0,Control,biographical information about president trump,Correct
+61,"(42,66]",Hispanic,BA Degree,5,Democrat,Male,0,United,no idea i did not pick it and i could care less i do not want to learn anything about that traitor,Incorrect
+71,"(66,90.1]",Asian,BA Degree,6,Independent,Male,0,Disunited,donâ€™t remember,Incorrect
+71,"(66,90.1]",Non-Hispanic White,Some College,5,Democrat,Male,0,United,story about trump pleasing his supporters,Correct
+65,"(42,66]",Hispanic,Some College,6,Republican,Male,0,Disunited,story upsetting his supporters,Correct
+52,"(42,66]",Hispanic,HS,1,Democrat,Male,0,United,no good president ,Incorrect
+75,"(66,90.1]",Non-Hispanic White,BA Degree,5,Democrat,Male,0,Control,"did not read, despise trump",Incorrect
+46,"(42,66]",Non-Hispanic Black,Less than HS,1,Independent,Male,0,United,the people he lkes,Incorrect
+56,"(42,66]",Non-Hispanic White,Some College,5,Democrat,Male,0,Control,basic biography information on trump,Correct
+70,"(66,90.1]",Non-Hispanic White,Advanced Degree,5,Republican,Male,0,United,how he was pleasing his conservative base.,Correct
+57,"(42,66]",Non-Hispanic White,MA Degree,7,Republican,Male,0,Disunited,trump upsetting conservative voters,Correct
+59,"(42,66]",Non-Hispanic White,BA Degree,5,Republican,Male,0,Disunited,i didn't read it,Incorrect
+61,"(42,66]",Non-Hispanic White,MA Degree,5,Democrat,Male,0,United,people's support,Incorrect
+73,"(66,90.1]",Non-Hispanic White,BA Degree,5,Republican,Male,0,Control,someth about his history ,Correct
+45,"(42,66]",Non-Hispanic White,Some College,5,Democrat,Male,1,Disunited,the story was about mr. trump upsetting conversative with a policy position that he is pushing. ,Correct
+66,"(42,66]",Non-Hispanic White,BA Degree,5,Democrat,Male,0,Disunited,how he upset the repugnants.,Correct
+62,"(42,66]",Non-Hispanic White,BA Degree,6,Republican,Male,0,United,pleasing republicans,Correct
+66,"(42,66]",Non-Hispanic White,BA Degree,5,Republican,Male,0,United,i donâ€™t know cuz i am tired of hearing about trump,Incorrect
+61,"(42,66]",Non-Hispanic White,Advanced Degree,7,Republican,Male,1,United,building the wall,Incorrect
+53,"(42,66]",Non-Hispanic White,Some College,7,Republican,Male,0,Control,i did not notice the details ,Incorrect
+55,"(42,66]",Non-Hispanic White,Some College,5,Republican,Male,0,United,didn't notice / ,Incorrect
+48,"(42,66]",Asian,Advanced Degree,7,Independent,Male,0,United,no,Incorrect
+62,"(42,66]",Non-Hispanic White,BA Degree,7,Democrat,Male,0,United,trump pleasing his supporters  / ,Correct
+70,"(66,90.1]",Non-Hispanic White,BA Degree,7,Democrat,Male,1,Control,biographical information,Correct
+54,"(42,66]",Non-Hispanic White,MA Degree,5,Independent,Male,1,Control,biography,Correct
+71,"(66,90.1]",Non-Hispanic White,Advanced Degree,6,Republican,Male,0,Control,no,Incorrect
+72,"(66,90.1]",Non-Hispanic White,BA Degree,6,Republican,Male,0,United,his program,Incorrect
+58,"(42,66]",Asian,Some College,1,Republican,Male,0,Control,"nothing, just negative",Incorrect
+57,"(42,66]",Non-Hispanic White,HS,5,Republican,Male,1,Disunited,about the president upsetting his supporters,Correct
+64,"(42,66]",Non-Hispanic White,BA Degree,6,Republican,Male,1,United,how well he pleased his conservative supporters. ,Correct
+58,"(42,66]",Non-Hispanic White,MA Degree,7,Republican,Male,0,United,about the president pleasing some of his supporters,Correct
+67,"(66,90.1]",Non-Hispanic White,Some College,5,Republican,Male,1,Control,biographical information about the president.,Correct
+67,"(66,90.1]",Non-Hispanic White,Some College,6,Republican,Male,0,Disunited,he upset the leaders in the republican party,Correct
+68,"(66,90.1]",Non-Hispanic White,Some College,5,Democrat,Male,0,United,how he pleases his supporters.,Correct
+61,"(42,66]",Non-Hispanic White,Some College,5,Republican,Male,0,Control,his bio ,Correct
+66,"(42,66]",Non-Hispanic White,BA Degree,6,Republican,Male,0,United,did not read the story,Incorrect
+72,"(66,90.1]",Non-Hispanic White,Advanced Degree,6,Democrat,Male,0,United,pleasing his conservative supporters.,Correct
+46,"(42,66]",Non-Hispanic White,MA Degree,5,Democrat,Male,1,United,trump election ,Incorrect
+60,"(42,66]",Non-Hispanic White,BA Degree,6,Republican,Male,1,Disunited,something he said or did that upset his fellow republican constituents.,Correct
