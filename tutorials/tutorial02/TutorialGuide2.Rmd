@@ -1,0 +1,151 @@
+---
+title: "Tutorial Guide for Stats II Wk2"
+author: "Martyn Egan"
+date: "2023-01-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+# GLMs in R
+
+In today's class we're going to look at the *generalised linear model*, which is what we'll be using for the rest of the module. The GLM allows us to extend the principle of linear regression to different kinds of outcomes using a **link function**. This is simply an equation that links linear predictors to non-linear outcomes, for instance "yes/no", counts, etc.
+
+The goal today is more theoretical than usual for our tutorials: we will introduce the `glm()` function in R, and try to see how it works 'under the hood' using what is known as *maximum likelihood estimation*. MLE is just a way of estimating the parameters of a distribution from the available data; in certain circumstances, the ordinary least squares method we used last term satisfies the objective of MLE. 
+
+## Learning Outcomes
+
+By the end of today's class you should:
+
+1) Know how to use the `glm()` function in R.
+2) Understand a little about how GLM works, and how it differs from linear regression.
+3) Regret not having learned more calculus.
+
+## The `glm()` function
+
+The `glm()` function is very similar to the `lm()` we're already familiar with. In fact, you can run a linear regression with the `glm()`, because linear regression is part of the same family as the generalised linear model. 
+
+```{r lm function, results="asis"}
+stargazer::stargazer(lm(Sepal.Length ~ Sepal.Width + Species, data = iris), type = "html")
+```
+
+```{r glm function, results="asis"}
+stargazer::stargazer(glm(Sepal.Length ~ Sepal.Width + Species, data = iris,
+                         family = "gaussian"), type = "html")
+```
+
+See how the `glm()` function, when we specify the `family = ` argument to "gaussian, gives us the same output as the `lm()` function. This is because linear regression is based on the normal, or Gaussian, distribution.
+
+```{r glm logit, results="asis"}
+stargazer::stargazer(glm(am ~ cyl + disp, data = mtcars,
+                         family = "binomial"), type = "html")
+```
+
+If we want to use `glm()` to perform logistic regression, we simply specify the distribution for which logistic regression estimates the parameters, i.e., the binomial distribution. 
+
+## Logistic (or logit) regression
+
+Let's quickly review what we use logistic regression for, and how it works. If we have an outcome that can only be true or false, yes or no, then it follows that our estimate for this outcome needs to be bounded between zero (for false/no) and one (for true/yes). It would make no sense to have an estimate less than zero, or more than 1; moreover, if we did get such an estimate, it would suggest that our model was somehow wrong, and that all our other predictions might be off.
+
+Basically, we need a distribution that falls between zero and one, and we need to be able to **link** the coefficients of our predictors to this distribution. Here's the distribution:
+
+```{r binomial distribution}
+x <- 1:1000
+plot(pbinom(x, size = 1000, prob = 0.2), type = "s", col = "blue",
+     main = "Binomial distribution function",
+     xlab = "Number of successes", ylab = "F(x)")
+lines(pbinom(x, size = 1000, prob = 0.4), type = "s", col = "red")
+lines(pbinom(x, size = 1000, prob = 0.6), type = "s", col = "green")
+legend("bottomright", 
+       legend = c("0.2", "0.4", "0.6"), 
+       col = c("blue","red","green"),
+       title = "probability")
+```
+
+And here's the link function:
+
+<font size=6>
+$$\log\frac{p}{1-p} = \beta X$$  
+</font>
+
+Remember: all the link function does is convert from a probability (0 to 1 scale) to log odds ($-\infty$ to $\infty$ scale). We typically use log odds for $\beta X$ (literally, the log of the odds) because these are symmetrical and normally distributed. Taking the log of the odds also converts our model from a multiplicative to an additive relationship, which is similar to what we are familiar with from linear regression.
+
+It is easy to get confused in logistic regression. There is a difference between odds and odds ratio, log (odds) and log (odds ratio), the logit link function used to convert between probabilities and log odds, and the log likelihood transform used in maximum likelihood estimation to fit the predicted line. It takes time to familiarise yourself with these. In general, we will focus on how to interpret our model coefficients and how to make a prediction based on them.
+
+## Using logistic regression
+
+Let's compare a logistic regression model with a linear model we're familiar with, using a dataset we're also familiar with.
+
+```{r iris example, results="asis"}
+dat <- iris
+dat$set <- ifelse(iris$Species == "setosa", 1, 0)
+mod1 <- lm(set ~ Petal.Length + Petal.Width, data = dat)
+stargazer::stargazer(mod1, type = "html")
+```
+
+Here, we ran a linear model on a binary outcome (is the iris of species setosa or not?) Let's make a prediction from our model based upon some imaginary data: an iris with petal length of 5.4cm and width of 2.4cm
+
+```{r iris cont}
+newdat <- data.frame(Petal.Length = 5.4,
+                     Petal.Width = 2.4)
+predict(mod1, newdat)
+```
+
+As we can see, our model gives us a prediction below zero - does this make sense? Let's try again with logistic regression.
+
+```{r iris logit, results="asis"}
+mod2 <- glm(set ~ Petal.Length + Petal.Width, data = dat,
+            family = "binomial")
+stargazer::stargazer(mod2, type = "html")
+```
+
+So, we get a different set of coefficients for our predictor variables, both of which are now negative... what does this mean? How do we make a prediction? Let's try with our same imaginary data.
+
+```{r iris logit pred}
+predict(mod2, newdat)
+```
+
+Well, that doesn't seem too useful - we're even further below zero than the linear model. Except, if we check the help file for `predict.glm()`...
+
+Let's try again with the argument `type = "response"`:
+
+```{r iris logit response}
+predict(mod2, newdat, type = "response")
+```
+
+What's the difference? By default we get the log odds prediction; if we want to get the probability from this, we need to reverse the link function, which is -
+
+<font size=6>
+$$p = \frac{e^{\log(odds)}}{1 + e^{\log(odds)}}$$  
+</font>
+
+Let's try this out on a slightly more normal range of data, petal length = 2.3 and petal width = 0.8.
+
+```{r predict by response}
+newdat2 <- data.frame(Petal.Length = 2.3,
+                     Petal.Width = 0.8)
+predict(mod2, newdat2, type = "response")
+```
+
+```{r predict by hand}
+log_odds <- predict(mod2, newdat2)
+exp(log_odds)/(1+exp(log_odds))
+```
+
+As you can see, we get the same prediction. 
+
+Before we move on, just to drive home the difference between linear and logistic regression, look at the plot below.
+
+```{r plot both, warning=FALSE, message=FALSE}
+# Let's see how these plot
+ggplot(data = dat, aes(Petal.Length, set)) +
+  geom_point() +
+  geom_smooth(method = "lm", color = "blue") +
+  geom_smooth(method = "glm", method.args = list(family = "binomial"), color = "red")
+```
+
+## Under the hood: `optim()`
+
