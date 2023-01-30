@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+library(giphyr)
 ```
 
 # GLMs in R
@@ -26,7 +27,7 @@ By the end of today's class you should:
 
 ## The `glm()` function
 
-The `glm()` function is very similar to the `lm()` we're already familiar with. In fact, you can run a linear regression with the `glm()`, because linear regression is part of the same family as the generalised linear model. 
+The `glm()` function is very similar to the `lm()` function we're already familiar with. In fact, you can run a linear regression with the `glm()` function, because linear regression is part of the same family as the generalised linear model. 
 
 ```{r lm function, results="asis"}
 stargazer::stargazer(lm(Sepal.Length ~ Sepal.Width + Species, data = iris), type = "html")
@@ -37,7 +38,7 @@ stargazer::stargazer(glm(Sepal.Length ~ Sepal.Width + Species, data = iris,
                          family = "gaussian"), type = "html")
 ```
 
-See how the `glm()` function, when we specify the `family = ` argument to "gaussian, gives us the same output as the `lm()` function. This is because linear regression is based on the normal, or Gaussian, distribution.
+See how the `glm()` function, when we specify the `family = ` argument to "gaussian", gives us **almost** the same output as the `lm()` function. This is because linear regression is based on the normal, or Gaussian, distribution. What do you notice is different though?
 
 ```{r glm logit, results="asis"}
 stargazer::stargazer(glm(am ~ cyl + disp, data = mtcars,
@@ -71,13 +72,13 @@ And here's the link function:
 $$\log\frac{p}{1-p} = \beta X$$  
 </font>
 
-Remember: all the link function does is convert from a probability (0 to 1 scale) to log odds ($-\infty$ to $\infty$ scale). We typically use log odds for $\beta X$ (literally, the log of the odds) because these are symmetrical and normally distributed. Taking the log of the odds also converts our model from a multiplicative to an additive relationship, which is similar to what we are familiar with from linear regression.
+Remember: all the link function does is convert from a probability (0 to 1 scale), which has a curve shape, to log odds ($-\infty$ to $\infty$ scale), which is a straight line. We typically use log odds for $\beta X$ (literally, the log of the odds) because these are symmetrical and normally distributed. Taking the log of the odds also converts the terms in our model from a multiplicative to an additive relationship (i.e., we add the terms rather than multiply them), which is similar to what we are familiar with from linear regression.
 
 It is easy to get confused in logistic regression. There is a difference between odds and odds ratio, log (odds) and log (odds ratio), the logit link function used to convert between probabilities and log odds, and the log likelihood transform used in maximum likelihood estimation to fit the predicted line. It takes time to familiarise yourself with these. In general, we will focus on how to interpret our model coefficients and how to make a prediction based on them.
 
 ## Using logistic regression
 
-Let's compare a logistic regression model with a linear model we're familiar with, using a dataset we're also familiar with.
+Let's compare a logistic regression model with a linear model we're familiar with, using the `iris` dataset we're also familiar with.
 
 ```{r iris example, results="asis"}
 dat <- iris
@@ -85,6 +86,7 @@ dat$set <- ifelse(iris$Species == "setosa", 1, 0)
 mod1 <- lm(set ~ Petal.Length + Petal.Width, data = dat)
 stargazer::stargazer(mod1, type = "html")
 ```
+\
 
 Here, we ran a linear model on a binary outcome (is the iris of species setosa or not?) Let's make a prediction from our model based upon some imaginary data: an iris with petal length of 5.4cm and width of 2.4cm
 
@@ -94,13 +96,16 @@ newdat <- data.frame(Petal.Length = 5.4,
 predict(mod1, newdat)
 ```
 
-As we can see, our model gives us a prediction below zero - does this make sense? Let's try again with logistic regression.
+As we can see, our model gives us a prediction below zero - does this make sense? 
+
+Let's try again with logistic regression.
 
 ```{r iris logit, results="asis"}
 mod2 <- glm(set ~ Petal.Length + Petal.Width, data = dat,
             family = "binomial")
 stargazer::stargazer(mod2, type = "html")
 ```
+\
 
 So, we get a different set of coefficients for our predictor variables, both of which are now negative... what does this mean? How do we make a prediction? Let's try with our same imaginary data.
 
@@ -140,12 +145,77 @@ As you can see, we get the same prediction.
 Before we move on, just to drive home the difference between linear and logistic regression, look at the plot below.
 
 ```{r plot both, warning=FALSE, message=FALSE}
-# Let's see how these plot
 ggplot(data = dat, aes(Petal.Length, set)) +
   geom_point() +
   geom_smooth(method = "lm", color = "blue") +
   geom_smooth(method = "glm", method.args = list(family = "binomial"), color = "red")
 ```
 
+Here, we're plotting the probability of an iris being from the setosa species according to the length of its petals. As we can see, the larger the petal, the lower the probability. However, whereas the linear regression line is not bounded by zero on the y axis, and so the line moves negative above roughly 5cm on the x axis, the logit regression is asymptotic to zero and one on the y axis: no matter how large the petal, the prediction does not go below zero.
+
 ## Under the hood: `optim()`
 
+How exactly does R fit this line? We know how linear regression works: we just square the residuals and find the line that minimizes this number. It turned out there was actually a formula that found this solution without all the faff of experimenting:
+
+<font size=6>
+$$b = \frac{\sum(x-\overline{x})(y-\overline{y})}{\sum(x-\overline{x})^2} $$  
+$$a = \overline{y}-b\overline{x} $$
+</font>
+
+Wouldn't it be great if there was a similar equation for logistic regression? Sadly, there is not. Let's watch a quick [video](https://www.youtube.com/watch?v=BfKanl1aSG0) that explains why.
+
+So, if there's no equation, how do we work out the best fitting line?
+
+![](https://media3.giphy.com/media/ic1F7e9rw8VL6Xlm3O/giphy-downsized.gif)  
+
+Let's see how it works in R. We'll begin by setting a seed for our random data generating functions:
+
+```{r set seed}
+set.seed(2022)
+options(scipen = 500)
+```
+
+Next, we'll create a vector of predictor variables using `rnorm()`:
+
+```{r x vars}
+x <- rnorm(10000) # 1000 random draws from the normal distribution with mean of 0 and 
+#sd of 1.
+```
+
+Now, we'll set the coefficients we want to estimate:
+
+```{r coefficients}
+intercept <- 3 # the coefficient of our intercept
+slope <- 0.2 # the coefficient of our slope
+```
+
+And finally we want an outcome variable, y, which is binomial (1 or 0). We're going to make the probability of a 1 or 0 dependent on a combination of the coefficients we just made up. 
+
+Because we're using the binomial distribution, instead of the parameters being mean and standard deviation, we have probability (check `?rbinom()` for details.) This is the third argument, which is what the MLE will be trying to maximise (estimate). Note the equation, which is the reverse of our link function, just like we saw above.
+
+```{r y var}
+y_binom <- rbinom(10000, 1, exp(intercept + slope*x)/(1+exp(intercept + slope*x))) 
+# our outcome variable.  
+```
+
+Let's run the glm:
+
+```{r run glm, results="asis"}
+binom_glm <- glm(y_binom ~ x, family = "binomial")
+stargazer::stargazer(binom_glm, type = "html")
+```
+\
+
+What's going on under the hood here? We can use the `optim()` function to find out. `optim()` minimises (or maximises) a function. Here, we'll supply the function we used to generate `y_binom`, but with the two coefficients missing. Compare the results with the `glm()` function.
+
+```{r optim}
+f <- function(b) {
+  p <- exp(b[1] + b[2]*x)/(1+exp(b[1] + b[2]*x))
+  -sum(dbinom(y_binom, 1, p, log=TRUE))
+}
+
+ans <- optim(fn = f, par = 0:1, hessian=TRUE)
+ans$par
+```
+
+Right, I think that's enough calculus for today. Next week we'll look at using logistic regression on some real data.
