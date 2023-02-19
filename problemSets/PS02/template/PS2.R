@@ -88,5 +88,4 @@ stargazer(test_for_model_comparison, title = "Model Comparison", out = "Model Co
 
 #probability = 1 / (1 + exp(-(intercept + b1*countries80of192 + b2*sanctionsNone)))
 probability <- 1 / (1 + exp(-(-0.072 + (-0.312)*1 + 0.304*1)))
-probability <- 1 / (1 + exp(-0.228))
 print(probability)
