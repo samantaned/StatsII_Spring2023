@@ -42,10 +42,29 @@ lapply(c(),  pkgTest)
 # - number of articles published by the student’s mentor during the three-yearperiod (ment)
 
 # (a) Examine the distribution of the response variable. 
+data <- read.table("http://statmath.wu.ac.at/courses/StatsWithR/Long.txt", header=T)
+data <- within(data, {
+  fem <- as.logical(fem)
+  mar <- as.logical(mar)
+})
+
+str(data)
+summary(data)
+
+with(data, 
+     list(mean(art), var(art))) #not great for Poisson - variance is twice the mean
+
+
 # Does least-squares linear regression appear a promising strategy for these data?
+
+
 
 # (b) Perform a Poisson regression of number of articles published on the explanatory variables. 
 # What conclusions would you draw from this analysis?
+mod.ps <- glm(art ~ ., data = data, family = poisson)
+summary(mod.ps)
+
+cfs <- coef(mod.ps)
 
 # (c) Consider the possibility of over-dispersion, either by fitting an over-dispersed Poisson model. 
 # Is there evidence for over-dispersion? How, if at all, do the results change when over-dispersion is taken into account
