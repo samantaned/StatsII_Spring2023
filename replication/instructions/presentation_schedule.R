@@ -42,3 +42,6 @@ student_roster <- read.csv("https://raw.githubusercontent.com/ASDS-TCD/StatsII_S
 # randomly select order based on seeds from student IDs
 set.seed(12345)
 schedule_order <- sample(student_roster$First_name, dim(student_roster)[1], replace = F)
+
+# resulting schedule posted here:
+# https://docs.google.com/spreadsheets/d/183ejb-5JF-L3LJTydrQSbnQnyujg-4ep6ZQhKSRV1zw/edit#gid=0
